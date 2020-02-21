@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "2ca19fa5-b4d7-4504-b53a-7878a4ef31c0",
-            "Value": {
-                "id": "dc977d57-030d-4372-bc87-22778ca6650f",
-                "resourcePath": "objects\/obj_Player\/obj_Player.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "46fd1ec9-6a7f-4d5a-96da-c099f762dcf0",
             "Value": {
                 "id": "0b035fae-391c-4bf2-b3a1-c5afe22352f9",
@@ -76,6 +68,22 @@
                 "id": "2795a310-0532-4af4-bfe7-616b019376d5",
                 "resourcePath": "views\/81a73af7-50ff-4cd6-86fa-1916dda6af24.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93712874-3d44-4fe8-9533-a19c664bf5d1",
+            "Value": {
+                "id": "5ba3dbc4-879f-4800-a7c5-6a85454d9930",
+                "resourcePath": "sprites\/spr_testCat\/spr_testCat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9daaccf8-ab54-4486-b57d-a30237ee1af4",
+            "Value": {
+                "id": "211f8a57-faaf-4f54-a6ee-a490ae21fa31",
+                "resourcePath": "sprites\/spr_wall\/spr_wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "c05bc1f1-f93c-4a33-bc34-eec785c1d660",
+            "Value": {
+                "id": "5899e6fe-5b18-4974-b835-6a2a6f07d224",
+                "resourcePath": "sprites\/spr_testPerson\/spr_testPerson.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c5dd723e-338f-47f9-a15f-f0a05f23dc2d",
             "Value": {
                 "id": "513df98c-2167-4c69-9d69-de496173901c",
@@ -156,6 +172,14 @@
                 "id": "38360187-634b-49ee-8e55-141fe7e40557",
                 "resourcePath": "views\/e2de36b4-9e04-4de0-9573-35846e02d1b6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e71f9737-0573-40e9-8eb0-911f70dba5e2",
+            "Value": {
+                "id": "a999c459-0124-4b60-bc71-c9725ee65aa1",
+                "resourcePath": "objects\/obj_wall\/obj_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
