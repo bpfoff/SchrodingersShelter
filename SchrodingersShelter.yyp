@@ -114,7 +114,7 @@
             "Key": "b51aebd8-eea5-4d96-b664-2237a632d5ff",
             "Value": {
                 "id": "21374be3-223d-4451-a40f-ab2b35b9e9b9",
-                "resourcePath": "objects\/obj_Person\/obj_Person.yy",
+                "resourcePath": "objects\/obj_testPerson\/obj_testPerson.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "d226ac73-0dff-45c1-8135-775c1725e5bc",
             "Value": {
                 "id": "1843f923-516a-455c-9a4a-b29b5f4c0cb1",
-                "resourcePath": "objects\/obj_Cat\/obj_Cat.yy",
+                "resourcePath": "objects\/obj_testCat\/obj_testCat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "e71f9737-0573-40e9-8eb0-911f70dba5e2",
             "Value": {
                 "id": "a999c459-0124-4b60-bc71-c9725ee65aa1",
-                "resourcePath": "objects\/obj_wall\/obj_wall.yy",
+                "resourcePath": "objects\/obj_testWall\/obj_testWall.yy",
                 "resourceType": "GMObject"
             }
         },
