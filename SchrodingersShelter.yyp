@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "774e283d-1ebd-46d2-b57c-4a26691ad919",
+            "Value": {
+                "id": "c4a6e1ad-3002-4efb-962f-d4ee3ac43f42",
+                "resourcePath": "objects\/obj_gameStatus\/obj_gameStatus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81a73af7-50ff-4cd6-86fa-1916dda6af24",
             "Value": {
                 "id": "2795a310-0532-4af4-bfe7-616b019376d5",
