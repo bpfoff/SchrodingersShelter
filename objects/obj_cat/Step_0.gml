@@ -11,3 +11,10 @@ if (grabbed)
 	var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
 	newMenu.options = options;
 }
+
+if(movingTowardsShelter){
+	x -= 1;
+	if(x==obj_spawner.currentX){
+		movingTowardsShelter = false;	
+	}
+}

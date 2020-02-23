@@ -1,13 +1,9 @@
 event_inherited();
 
-/*
+
 hasCat = false;
 
 assignedCat = noone;
-
-happiness = 100; //Should start with 100 happiness and subtract by the inverse.
-
-*/
 
 options = [Options.Traits, Options.About];
 
