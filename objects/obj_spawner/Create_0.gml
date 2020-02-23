@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 currentQueue = 0;
 
 spot1Occupied = false;
@@ -17,6 +14,6 @@ currentX = 0;
 
 
 
-timer = 600;
+timer = 1;
 alarm[0] = timer;
 
