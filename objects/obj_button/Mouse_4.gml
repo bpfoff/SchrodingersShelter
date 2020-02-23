@@ -8,13 +8,6 @@ switch(options){
 		global.previous_room = room;
         openAboutMenu();
         break;
-    case Options.Adopt:
-		//Handle the adoption.
-        handleAdoption();
-        break;
-	case Options.Back:
-		goBack();
-		break;
     default:
 		break;
 }
