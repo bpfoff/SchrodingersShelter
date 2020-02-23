@@ -17,6 +17,6 @@ currentX = 0;
 
 
 
-timer = 300;
+timer = 600;
 alarm[0] = timer;
 

@@ -26,6 +26,7 @@ color = "";
 sprite = "spr_testCat";
 grabbed = false;
 
+movingTowardsShelter = true;
 inQueue = false;
 
 colorX = irandom(3);

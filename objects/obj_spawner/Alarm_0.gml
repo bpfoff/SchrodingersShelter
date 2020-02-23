@@ -16,7 +16,7 @@ if(currentQueue < 3){
 		spot3Occupied = true;
 	}
 	
-	instance_create_layer(currentX, spotY, "instances", obj_testCat);
+	instance_create_layer(room_width, spotY, "instances", obj_testCat);
 	
 	
 	currentQueue += 1;
