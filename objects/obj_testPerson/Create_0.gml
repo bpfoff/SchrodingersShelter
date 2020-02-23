@@ -4,10 +4,6 @@
 
 event_inherited();
 
-name = "";
-wantedPersonality = "";
-wantedColor = "";
-
 /*
 hasCat = false;
 
@@ -20,3 +16,7 @@ happiness = 100; //Should start with 100 happiness and subtract by the inverse.
 options = [Options.Traits, Options.About];
 
 //sprite_index = choose(/*input all human sprites here, so one gets randomly selected.*/);
+
+name = "";
+wantedPersonality = "";
+wantedColor = "";
