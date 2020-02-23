@@ -24,6 +24,8 @@ personality = "";
 color = "";
 sprite = "spr_testCat";
 
+inQueue = true;
+
 colorX = irandom(3);
 personalityY = irandom(3);
 
