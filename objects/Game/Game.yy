@@ -2,7 +2,7 @@
     "id": "774e283d-1ebd-46d2-b57c-4a26691ad919",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_gameStatus",
+    "name": "Game",
     "eventList": [
         {
             "id": "591bc698-46cf-4c02-834e-ac0f2d1a62e0",
@@ -12,16 +12,6 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "774e283d-1ebd-46d2-b57c-4a26691ad919"
-        },
-        {
-            "id": "058ac690-2fc4-4526-9a4d-6f9a9656e4f4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
             "m_owner": "774e283d-1ebd-46d2-b57c-4a26691ad919"
         }
     ],
