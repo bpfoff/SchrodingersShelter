@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "10fa6d17-68f7-4b39-a13e-a4d507b0fbf5",
+            "Value": {
+                "id": "6f66e77e-be14-4102-a74e-2fb481a4e208",
+                "resourcePath": "objects\/obj_cat\/obj_cat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "138ff8d0-28e5-4731-b779-fc666efc6b75",
             "Value": {
                 "id": "69ce3524-8039-477d-bc3c-bd5e68d78211",
@@ -323,6 +331,14 @@
             "Value": {
                 "id": "1843f923-516a-455c-9a4a-b29b5f4c0cb1",
                 "resourcePath": "objects\/obj_testCat\/obj_testCat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4f4c732-5c3e-4111-8102-0c8f23032f18",
+            "Value": {
+                "id": "363e794f-b215-4407-afa5-e5858cd55112",
+                "resourcePath": "objects\/obj_person\/obj_person.yy",
                 "resourceType": "GMObject"
             }
         },
