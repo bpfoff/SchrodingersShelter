@@ -1,4 +1,4 @@
-currentQueue = 0;
+/*currentQueue = 0;
 
 spot1Occupied = false;
 spot2Occupied = false;
@@ -15,5 +15,5 @@ currentX = 0;
 
 
 timer = 1;
-alarm[0] = timer;
+alarm[0] = timer;*/
 

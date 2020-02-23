@@ -1,5 +1,5 @@
 //Create 8 new enemies
-	
+/*	
 if(currentQueue < 3){
 	
 	if(spot1Occupied==false){
@@ -24,4 +24,4 @@ if(currentQueue < 3){
 	
 }
 
-alarm[0] = timer;
+alarm[0] = timer;*/
