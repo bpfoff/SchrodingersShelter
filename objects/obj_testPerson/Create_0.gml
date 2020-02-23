@@ -4,6 +4,10 @@
 
 event_inherited();
 
+name = "";
+wantedPersonality = "";
+wantedColor = "";
+
 /*
 hasCat = false;
 
