@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1331a533-1008-4d65-8852-2cae4a46676c",
+            "Value": {
+                "id": "b184df1b-6652-43f7-8c41-01b8f5da3f77",
+                "resourcePath": "scripts\/openAboutMenu\/openAboutMenu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "138ff8d0-28e5-4731-b779-fc666efc6b75",
             "Value": {
                 "id": "69ce3524-8039-477d-bc3c-bd5e68d78211",
@@ -103,10 +111,18 @@
             }
         },
         {
+            "Key": "3d4dea49-17ef-43ba-a973-4cb695bf0aba",
+            "Value": {
+                "id": "9f25f882-129d-4d98-8ad8-e04682a33273",
+                "resourcePath": "scripts\/openTraitsMenu\/openTraitsMenu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "40b180dc-5b12-4bb4-bdb8-24a98324d5d1",
             "Value": {
                 "id": "5c4f1aaa-800f-4f69-b3b7-dc8e6206961e",
-                "resourcePath": "scripts\\normalCats\\normalCats.yy",
+                "resourcePath": "scripts\/normalCats\/normalCats.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "750f3864-34d9-4286-9e9a-b08469ecbfc7",
+            "Value": {
+                "id": "42dcf566-7aa2-4827-9bcd-4edef4a10262",
+                "resourcePath": "scripts\/handleAdoption\/handleAdoption.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "774e283d-1ebd-46d2-b57c-4a26691ad919",
             "Value": {
                 "id": "c4a6e1ad-3002-4efb-962f-d4ee3ac43f42",
@@ -215,11 +239,27 @@
             }
         },
         {
+            "Key": "8497c0f1-cf1e-4b3e-bec0-9186eb86c848",
+            "Value": {
+                "id": "13c1238a-27a2-4151-89c2-03eedadc34c8",
+                "resourcePath": "rooms\/menu_catsTraitsMenu\/menu_catsTraitsMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "93712874-3d44-4fe8-9533-a19c664bf5d1",
             "Value": {
                 "id": "5ba3dbc4-879f-4800-a7c5-6a85454d9930",
                 "resourcePath": "sprites\/spr_testCat\/spr_testCat.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9c048e40-f699-4a5e-acd4-8e2922350231",
+            "Value": {
+                "id": "82fa0e35-d92b-41fb-a379-a03b40e44b83",
+                "resourcePath": "scripts\/goBack\/goBack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -391,6 +431,14 @@
             }
         },
         {
+            "Key": "ead9f8dd-7213-4fb0-acf1-e2b60805f0ae",
+            "Value": {
+                "id": "4e536714-0d2d-4721-9316-b1885e2f548f",
+                "resourcePath": "rooms\/menu_personTraitsMenu\/menu_personTraitsMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "eed2e882-fca5-4f50-8a0b-3057bdec0042",
             "Value": {
                 "id": "bc718c22-ee1b-47d5-a9ab-d68a279f5de1",
@@ -449,7 +497,11 @@
     ],
     "script_order": [
         "d718bbae-d850-4d6b-9139-dd78bac3476e",
-        "40b180dc-5b12-4bb4-bdb8-24a98324d5d1"
+        "40b180dc-5b12-4bb4-bdb8-24a98324d5d1",
+        "750f3864-34d9-4286-9e9a-b08469ecbfc7",
+        "3d4dea49-17ef-43ba-a973-4cb695bf0aba",
+        "1331a533-1008-4d65-8852-2cae4a46676c",
+        "9c048e40-f699-4a5e-acd4-8e2922350231"
     ],
     "tutorial": ""
 }

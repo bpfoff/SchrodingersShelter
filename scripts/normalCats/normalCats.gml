@@ -1,5 +1,3 @@
-
-
 normalCat = array_create(4, array_create(4, " "));
 
 /*
