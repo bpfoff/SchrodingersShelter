@@ -9,7 +9,8 @@
         "750f3864-34d9-4286-9e9a-b08469ecbfc7",
         "3d4dea49-17ef-43ba-a973-4cb695bf0aba",
         "1331a533-1008-4d65-8852-2cae4a46676c",
-        "9c048e40-f699-4a5e-acd4-8e2922350231"
+        "9c048e40-f699-4a5e-acd4-8e2922350231",
+        "ef4db223-0f83-4194-8a57-3a50b181b948"
     ],
     "filterType": "GMScript",
     "folderName": "Entity Scripts",
