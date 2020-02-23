@@ -23,7 +23,7 @@ name = "";
 personality = "";
 color = "";
 sprite = "spr_testCat";
-
+grabbed = false;
 colorX = irandom(3);
 personalityY = irandom(3);
 
