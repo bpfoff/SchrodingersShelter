@@ -9,13 +9,17 @@ enum Options{
 	//Here the menu options for when you click on a player will go.
 	
 	Traits,
-	About
+	About,
+	Adopt,
+	Back
 	
 };
 
 optionString = [
 	
 	"Traits",
-	"About"
+	"About",
+	"Adopt",
+	"Back"
 	
 ];
