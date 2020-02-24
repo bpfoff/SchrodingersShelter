@@ -1,6 +1,5 @@
 event_inherited();
 
-
 hasCat = false;
 
 assignedCat = noone;
@@ -12,3 +11,4 @@ options = [Options.Traits, Options.About];
 name = "";
 wantedPersonality = "";
 wantedColor = "";
+wantedWeirdness = "";

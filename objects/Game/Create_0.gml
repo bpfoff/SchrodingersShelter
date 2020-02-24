@@ -1,6 +1,11 @@
 /// @description handles the creation of all the global status variables.
 
 randomize();
+
+global.playerScore = 0;
+
+level_no = 0;
+
 global.selected = noone;
 
 enum Options{

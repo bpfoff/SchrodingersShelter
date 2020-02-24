@@ -1,7 +1,7 @@
 hasCat = true;
 assignedCat = obj_cat.id;
+calcScore(assignedCat, self);
 instance_destroy(assignedCat);
-calcScore();
 instance_destroy(self);
 if(instance_exists(obj_personContextMenu)){
 	

@@ -1,0 +1,1 @@
+//draw_text(0,0,"Cat Adopted Successfully: playerScore: " + string(global.playerScore));
