@@ -6,6 +6,8 @@ global.playerScore = 0;
 
 level_no = 0;
 
+log = true;
+
 global.selected = noone;
 
 enum Options{

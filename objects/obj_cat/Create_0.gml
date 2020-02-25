@@ -23,8 +23,9 @@ normalCat = script_execute(normalCats);
 name = "";
 personality = "";
 color = "";
-sprite = "spr_testCat";
+//sprite = "spr_testCat";
 grabbed = false;
+weirdness = irandom(10);
 
 movingTowardsShelter = true;
 inQueue = false;

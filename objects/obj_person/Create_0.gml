@@ -11,4 +11,6 @@ options = [Options.Traits, Options.About];
 name = "";
 wantedPersonality = "";
 wantedColor = "";
-wantedWeirdness = "";
+wantedWeirdness = 0;
+
+//The players that are made will be made in such a way that there is always a match.
