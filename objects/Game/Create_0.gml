@@ -4,7 +4,7 @@ randomize();
 
 global.playerScore = 0;
 
-level_no = 0;
+level_no = 1;
 
 log = true;
 
@@ -16,12 +16,14 @@ enum Options{
 	//Here the menu options for when you click on a player will go.
 	
 	Traits,
-	About
+	About,
+	Move
 	
 };
 
 optionString = [
 	
 	"Traits",
-	"About"
+	"About",
+	"Adopt"
 ];

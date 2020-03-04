@@ -18,6 +18,8 @@ for(var i = 3; i >= 0; i--){
 */
 event_inherited();
 
+options = [Options.Traits, Options.About, Options.Move];
+
 normalCat = script_execute(normalCats);
 
 name = "";

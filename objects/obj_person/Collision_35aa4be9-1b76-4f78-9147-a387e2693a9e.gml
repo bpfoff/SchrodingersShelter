@@ -1,5 +1,7 @@
 hasCat = true;
-assignedCat = obj_cat.id;
+global.selected.grabbed = false;
+assignedCat = global.selected.id;
+//global.selected.grabbed = false;
 calcScore(assignedCat, self);
 instance_destroy(assignedCat);
 instance_destroy(self);

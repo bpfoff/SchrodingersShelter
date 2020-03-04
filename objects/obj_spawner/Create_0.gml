@@ -4,11 +4,13 @@ spot1Occupied = false;
 spot2Occupied = false;
 spot3Occupied = false;
 
-spotY = 550;
+//spotY = window_get_height() * 0.90;
 
-spot1X = 700;
-spot2X = 800;
-spot3X = 900;
+spotY = 100;
+
+spot1X = 500;
+spot2X = 600;
+spot3X = 700;
 
 currentX = 0;
 

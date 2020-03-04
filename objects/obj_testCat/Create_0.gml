@@ -1,8 +1,6 @@
 event_inherited();
 
-personality = "aloof";
-color = "orange";
-grabbed = false;
+personality = "dumb";
+color = "white";
+//grabbed = false;
 weirdness = 10;
-
-options = [Options.Traits, Options.About];

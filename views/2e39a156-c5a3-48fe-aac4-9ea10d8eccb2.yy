@@ -9,7 +9,7 @@
         "e980852f-989d-4bc9-af77-fe295b6c0ca6"
     ],
     "filterType": "GMObject",
-    "folderName": "Menus",
+    "folderName": "Frontend UI",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
