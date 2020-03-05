@@ -12,11 +12,9 @@ if (grabbed)
 	newMenu.options = options;
 }
 
-/*
-if(movingTowardsShelter){
+/*if(movingTowardsShelter){
 	x -= 1;
 	if(x==obj_spawner.currentX){
 		movingTowardsShelter = false;	
 	}
-}
-*/
+}*/
