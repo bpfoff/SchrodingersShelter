@@ -4,7 +4,8 @@ switch(level_no){
 		//This will be the debug room.
 		break;
 	case 1:
-		//add the condition that moves to the next room.
+		
+		handleTutorialLevel();
 		
 		/*
 		if(the condition to go to next level){
