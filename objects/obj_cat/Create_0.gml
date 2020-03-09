@@ -28,6 +28,7 @@ color = "";
 //sprite = "spr_testCat";
 grabbed = false;
 weirdness = irandom(10);
+talkSprite = spr_testCat;
 
 movingTowardsShelter = true;
 inQueue = false;

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04b6a446-304f-4c80-9dd6-2ee8b412b521",
+            "Value": {
+                "id": "7209706b-518e-4b4b-8daf-1ed53ab42d7b",
+                "resourcePath": "sprites\/spr_testPersonTalkSprite\/spr_testPersonTalkSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0746ed70-dbfc-4869-8bfb-a1315512dd39",
             "Value": {
                 "id": "cc25b4dc-9a2e-48c6-b63b-979b533b5295",
@@ -42,7 +50,7 @@
             "Key": "07a26594-03f7-4718-97e2-b0c089050f84",
             "Value": {
                 "id": "3ac886f8-bac2-4ebd-94a3-1bf98c979370",
-                "resourcePath": "scripts\\handleTutorialRoom\\handleTutorialRoom.yy",
+                "resourcePath": "scripts\/handleTutorialRoom\/handleTutorialRoom.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -98,7 +106,7 @@
             "Key": "2ac2a70d-6c4d-4fda-b810-1fc00895ee9f",
             "Value": {
                 "id": "9ff82783-0aca-459f-9a99-3e00bdcc3599",
-                "resourcePath": "objects\\Menu\\Menu.yy",
+                "resourcePath": "objects\/Menu\/Menu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -140,6 +148,14 @@
                 "id": "9f25f882-129d-4d98-8ad8-e04682a33273",
                 "resourcePath": "scripts\/openTraitsMenu\/openTraitsMenu.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3de9a300-017f-4898-9bbe-e99ab35bc152",
+            "Value": {
+                "id": "d3fc71ed-a863-41ab-9749-0710d84a270a",
+                "resourcePath": "sprites\/spr_testPersonTalkSprite2\/spr_testPersonTalkSprite2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -306,7 +322,7 @@
             "Key": "9f137c13-e465-4ac5-a24c-d29ef86803f4",
             "Value": {
                 "id": "fb261e85-0629-4226-b63b-b2c18d4c1a5d",
-                "resourcePath": "views\\9f137c13-e465-4ac5-a24c-d29ef86803f4.yy",
+                "resourcePath": "views\/9f137c13-e465-4ac5-a24c-d29ef86803f4.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -396,6 +412,14 @@
                 "id": "258b5737-d8a7-49b0-b861-13f3568c6958",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cccfdb4c-ad1a-491d-82f1-fa8542e046cb",
+            "Value": {
+                "id": "db4a1924-ae16-44c0-9231-8304856957b9",
+                "resourcePath": "fonts\/font_menuFont1\/font_menuFont1.yy",
+                "resourceType": "GMFont"
             }
         },
         {

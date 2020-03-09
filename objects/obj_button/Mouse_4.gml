@@ -2,6 +2,8 @@ switch(options){
 	
 	case Options.Traits:
 		global.previous_room = room;
+		global.name = global.selected.name;
+		global.talkSprite = global.selected.talkSprite;
         openTraitsMenu();
         break;
     case Options.About:

@@ -8,7 +8,8 @@ options = [Options.Traits, Options.About];
 
 //sprite_index = choose(/*input all human sprites here, so one gets randomly selected.*/);
 
-name = "";
+name = choose("Julio", "Jake", "Tyrone", "Paulette", "Gregor", "Tyler", "Bernardnita", "Jacobina", "Jannah");
+talkSprite = choose(spr_testPersonTalkSprite, spr_testPersonTalkSprite2);
 wantedPersonality = "";
 wantedColor = "";
 wantedWeirdness = 0;

@@ -5,7 +5,7 @@ switch(level_no){
 		break;
 	case 1:
 		
-		handleTutorialLevel();
+		//handleTutorialLevel();
 		
 		/*
 		if(the condition to go to next level){
