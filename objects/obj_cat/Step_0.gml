@@ -1,5 +1,9 @@
 if (grabbed)
 {
+	if(inRoom) {
+		inRoom = false;
+		roomPos = 0;
+	}
     x = mouse_x;
     y = mouse_y;
 	if(instance_exists(obj_personContextMenu)){
