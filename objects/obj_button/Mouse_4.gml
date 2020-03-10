@@ -12,6 +12,7 @@ switch(options){
         break;
 	case Options.Move:
 		
+		global.isAdopting = true;
 		//TODO: Add grabbing when clicking on the adopt button.
 		global.selected.grabbed = true;
 		

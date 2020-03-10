@@ -2,6 +2,9 @@ switch(level_no){
 	
 	case 0:
 		//This will be the debug room.
+		
+		global.numCats = 3;
+		
 		break;
 	case 1:
 		

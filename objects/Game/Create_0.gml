@@ -3,8 +3,9 @@
 randomize();
 
 global.playerScore = 0;
+global.isMoving = false;
 
-level_no = 1;
+level_no = 0;
 
 log = true;
 
@@ -25,5 +26,5 @@ optionString = [
 	
 	"Traits",
 	"About",
-	"Adopt"
+	"Move"
 ];

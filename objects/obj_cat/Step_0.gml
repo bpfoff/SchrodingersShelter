@@ -12,9 +12,21 @@ if (grabbed)
 	newMenu.options = options;
 }
 
-/*if(movingTowardsShelter){
-	x -= 1;
-	if(x==obj_spawner.currentX){
-		movingTowardsShelter = false;	
+if(movingTowardsShelter){
+
+	if(x==obj_spawner.spotX){
+
+		if(obj_spawner.spotOccupied){
+
+			obj_spawner.spotOccupied = false;
+			obj_spawner.spotX += (sprite_width + 10);
+
+		}
+
+		movingTowardsShelter = false;
+		obj_spawner.spotOccupied = true;	
 	}
-}*/
+
+	x -= 1;
+
+}
