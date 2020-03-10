@@ -9,9 +9,6 @@ if (global.selected.grabbed)&&(!global.selected.inRoom) {
 //	instance_destroy(obj_personContextMenu);
 //}
 	global.selected.grabbed = false;
-
-	
-	show_debug_message("F");
 	
 
 
@@ -40,8 +37,6 @@ if (global.selected.grabbed)&&(!global.selected.inRoom) {
 	}
 } else if ((global.selected.grabbed)&&(global.selected.inRoom)) {
 	
-	show_debug_message("Fuck");
-	show_debug_message(string(global.selected.id.roomPos));
 	
 	position = global.selected.id.roomPos;
 	
