@@ -1,17 +1,13 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
 if (global.selected.grabbed)&&(!global.selected.inRoom) {
 	thisCat = global.selected.id;
 	
-//	if(instance_exists(obj_personContextMenu)){
-//	instance_destroy(obj_personContextMenu);
-//}
+	//if(instance_exists(obj_personContextMenu)){
+		//instance_destroy(obj_personContextMenu);
+	//}
 	global.selected.grabbed = false;
 
 	
-	show_debug_message("F");
+	//show_debug_message("F");
 	
 
 

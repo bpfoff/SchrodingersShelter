@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 // current capacity of the room, initialize to 0, since there are no cats
 global.MAX_CAPACITY = 3;
 currentCapacity = 0;

@@ -4,6 +4,8 @@ switch(options){
 		global.previous_room = room;
 		global.name = global.selected.name;
 		global.talkSprite = global.selected.talkSprite;
+		global.wantedPersonality = global.selected.wantedPersonality;
+		global.wantedColor = global.selected.wantedColor;
         openTraitsMenu();
         break;
     case Options.About:
