@@ -1,5 +1,3 @@
-//Create 8 new enemies
-	
 if(currentQueue < 3){
 	
 	if(spot1Occupied==false){
@@ -13,7 +11,7 @@ if(currentQueue < 3){
 		spot3Occupied = true;
 	}
 	
-	instance_create_layer(room_width, spotY, "Instances", obj_testCat);
+	instance_create_layer(window_get_width(), spotY, "Instances", obj_testCat);
 	
 	
 	currentQueue += 1;
