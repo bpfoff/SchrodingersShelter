@@ -1,21 +1,23 @@
 currentQueue = 0;
 
-spot1Occupied = false;
+spotOccupied = false;
+
+/*spot1Occupied = false;
 spot2Occupied = false;
 spot3Occupied = false;
 
 //spotY = window_get_height() * 0.90;
 
-spotY = 100;
+spot1X = 64;
+spot2X = 256;
+spot3X = 512;*/
 
-spot1X = 500;
-spot2X = 600;
-spot3X = 700;
+spotX = 0;
+
+spotY = window_get_height() * 0.75;
 
 currentX = 0;
 
-
-
-timer = 1;
+timer = 100;
 alarm[0] = timer;
 

@@ -33,6 +33,9 @@ talkSprite = spr_testCat;
 movingTowardsShelter = true;
 inQueue = false;
 
+inRoom = false;
+roomPos = 0;
+
 colorX = irandom(3);
 personalityY = irandom(3);
 

@@ -1,5 +1,8 @@
-if (grabbed)
-{
+if (grabbed){
+	if(inRoom) {
+		inRoom = false;
+		roomPos = 0;
+	}
     x = mouse_x;
     y = mouse_y;
 	if(instance_exists(obj_personContextMenu)){
@@ -13,8 +16,21 @@ if (grabbed)
 }
 
 if(movingTowardsShelter){
-	x -= 1;
-	if(x==obj_spawner.currentX){
-		movingTowardsShelter = false;	
+
+	if(x==obj_spawner.spotX){
+
+		if(obj_spawner.spotOccupied){
+
+			obj_spawner.spotOccupied = false;
+			obj_spawner.spotX += (sprite_width + 10);
+
+		}
+
+		movingTowardsShelter = false;
+		obj_spawner.spotOccupied = true;	
 	}
+
+	x -= 1;
+
 }
+
