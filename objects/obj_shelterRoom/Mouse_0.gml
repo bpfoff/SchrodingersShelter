@@ -13,17 +13,17 @@ if (global.selected.grabbed)&&(!global.selected.inRoom) {
 	} else {
 		if (!pos1Occupied) {
 			thisCat.x = positionX1;
-			thisCat.y = positionY;
+			thisCat.y = positionY1;
 			pos1Occupied = true;
 			thisCat.roomPos = 1;
 		} else if (!pos2Occupied) {
 			thisCat.x = positionX2;
-			thisCat.y = positionY;
+			thisCat.y = positionY2;
 			pos2Occupied = true;
 			thisCat.roomPos = 2;
 		} else if (!pos3Occupied) {
 			thisCat.x = positionX3;
-			thisCat.y = positionY;
+			thisCat.y = positionY3;
 			pos3Occupied = true;
 			thisCat.roomPos = 3;
 		}

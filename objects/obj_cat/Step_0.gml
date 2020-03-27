@@ -21,13 +21,13 @@ if(movingTowardsShelter){
 
 		if(obj_spawner.spotOccupied){
 
-			obj_spawner.spotOccupied = false;
-			obj_spawner.spotX += (sprite_width + 10);
+			obj_spawner.spotOccupied = false;	
 
 		}
 
 		movingTowardsShelter = false;
 		obj_spawner.spotOccupied = true;	
+		obj_spawner.spotX += (sprite_width + 10);
 	}
 
 	x -= 1;
