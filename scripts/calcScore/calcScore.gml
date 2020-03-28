@@ -5,9 +5,9 @@
 catPersonality = argument0.personality;
 catWeird = argument0.weirdness;
 catColor = argument0.color;
-personWantColor = argument1.wantedColor;
-personWantPersonality = argument1.wantedPersonality;
-personWantWeird = argument1.wantedWeirdness;
+personWantColor = argument1.color;
+personWantPersonality = argument1.personality;
+personWantWeird = argument1.Weirdness;
 
 totalNumMatches = 0;
 

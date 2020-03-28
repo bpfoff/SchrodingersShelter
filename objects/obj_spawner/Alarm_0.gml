@@ -13,7 +13,7 @@ if(currentQueue < global.numCats){
 		spot3Occupied = true;
 	}*/
 	
-	instance_create_layer(window_get_width(), spotY, "Instances", obj_testCat);
+	instance_create_layer(window_get_width() - 384, spotY, "Instances", obj_testCat);
 
 	currentQueue += 1;
 

@@ -1,3 +1,5 @@
+if(object_get_parent(global.selected.object_index) == obj_person){return;}
+
 if (global.selected.grabbed)&&(!global.selected.inRoom) {
 	thisCat = global.selected.id;
 	

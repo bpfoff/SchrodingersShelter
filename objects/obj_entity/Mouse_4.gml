@@ -1,5 +1,3 @@
-//TODO: Delete existing menus and add the new menus.
-
 if(instance_exists(obj_personContextMenu)){
 	
 	instance_destroy(obj_personContextMenu);

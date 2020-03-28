@@ -4,18 +4,17 @@ switch(options){
 		global.previous_room = room;
 		global.name = global.selected.name;
 		global.talkSprite = global.selected.talkSprite;
-		global.wantedPersonality = global.selected.wantedPersonality;
-		global.wantedColor = global.selected.wantedColor;
+		global.wantedPersonality = global.selected.personality;
+		global.wantedColor = global.selected.color;
+		global.weirdness = global.selected.weirdness;	
         openTraitsMenu();
         break;
     case Options.About:
-		global.previous_room = room;
+		global.previous_room = room;	
         openAboutMenu();
         break;
 	case Options.Move:
-		
-		global.isAdopting = true;
-		//TODO: Add grabbing when clicking on the adopt button.
+		global.isMoving = true;
 		global.selected.grabbed = true;
 		
     default:
