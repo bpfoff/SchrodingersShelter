@@ -1,6 +1,8 @@
-if(currentQueue < 3){
+//Create 8 new enemies
 	
-	if(spot1Occupied==false){
+if(currentQueue < global.numCats){
+	
+	/*if(spot1Occupied==false){
 		currentX = spot1X;
 		spot1Occupied = true;
 	}else if(spot2Occupied==false){
@@ -9,11 +11,10 @@ if(currentQueue < 3){
 	}else if(spot3Occupied==false){
 		currentX = spot3X;
 		spot3Occupied = true;
-	}
+	}*/
 	
-	instance_create_layer(window_get_width(), spotY, "Instances", obj_testCat);
-	
-	
+	instance_create_layer(window_get_width() - 384, spotY, "Instances", obj_testCat);
+
 	currentQueue += 1;
 
 //Decrease time between spawns

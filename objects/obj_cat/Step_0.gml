@@ -1,5 +1,4 @@
-if (grabbed)
-{
+if (grabbed){
 	if(inRoom) {
 		inRoom = false;
 		roomPos = 0;
@@ -16,9 +15,22 @@ if (grabbed)
 	newMenu.options = options;
 }
 
-/*if(movingTowardsShelter){
-	x -= 1;
-	if(x==obj_spawner.currentX){
-		movingTowardsShelter = false;	
+if(movingTowardsShelter){
+
+	if(x==obj_spawner.spotX){
+
+		if(obj_spawner.spotOccupied){
+
+			obj_spawner.spotOccupied = false;	
+
+		}
+
+		movingTowardsShelter = false;
+		obj_spawner.spotOccupied = true;	
+		obj_spawner.spotX += (sprite_width + 10);
 	}
-}*/
+
+	x -= 1;
+
+}
+
