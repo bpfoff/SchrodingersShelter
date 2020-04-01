@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1e6e1b38-81ff-477c-a40d-f4ff221fd7c1",
+            "Value": {
+                "id": "8aad0bd1-259a-46de-ab39-9145bcf6c6e8",
+                "resourcePath": "sprites\\spr_person7\\spr_person7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "280e343b-ea56-4d2a-a42f-4af9e5edc189",
             "Value": {
                 "id": "3d3d1408-b521-4404-8819-301aee8ca708",
@@ -132,6 +140,14 @@
                 "id": "838b84f3-402c-45dd-ac5c-d4b1ae22825e",
                 "resourcePath": "fonts\/font_menuFonts\/font_menuFonts.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "39b1158c-217f-465b-83f2-e45e35cc4a77",
+            "Value": {
+                "id": "f24af107-6de3-4a76-b3b7-7783d6c3d4f2",
+                "resourcePath": "sprites\\spr_person2\\spr_person2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,11 +247,27 @@
             }
         },
         {
+            "Key": "593801bd-b630-4e80-bdce-d7be6b0093d8",
+            "Value": {
+                "id": "a705ea17-0ee9-4dbf-82e9-59a434176c61",
+                "resourcePath": "sprites\\spr_person1\\spr_person1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f67b549-4082-4b05-b4f9-073ebf428455",
             "Value": {
                 "id": "93ca588b-83e8-4ed3-9072-7707ad81d90e",
                 "resourcePath": "views\/5f67b549-4082-4b05-b4f9-073ebf428455.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6251e2da-7e9c-46f2-95a7-c4bebc7a8dcf",
+            "Value": {
+                "id": "56ea31b3-037f-4e8b-90d3-fed2366f1907",
+                "resourcePath": "sprites\\spr_person6\\spr_person6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -267,6 +299,14 @@
             "Value": {
                 "id": "c8c4d9e4-ff51-4476-9114-13e443aadd3b",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72cf34ca-9010-4d73-82fd-2026f7b728c8",
+            "Value": {
+                "id": "c5b4155c-fffa-435c-bc9d-ef18f0aceb72",
+                "resourcePath": "sprites\\spr_person3\\spr_person3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -415,6 +455,14 @@
             }
         },
         {
+            "Key": "beb1c53c-11b8-4960-bcc8-6de5fffc8da0",
+            "Value": {
+                "id": "5561afe8-f272-4de7-9a30-9e0a6c53292b",
+                "resourcePath": "sprites\\spr_person4\\spr_person4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c05bc1f1-f93c-4a33-bc34-eec785c1d660",
             "Value": {
                 "id": "5899e6fe-5b18-4974-b835-6a2a6f07d224",
@@ -511,6 +559,14 @@
             }
         },
         {
+            "Key": "e8d4176d-60c3-4571-bdef-b474fccb1183",
+            "Value": {
+                "id": "cdba6f6e-f268-404b-9638-86fc6bcc603b",
+                "resourcePath": "sprites\\spr_tutotial\\spr_tutotial.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e980852f-989d-4bc9-af77-fe295b6c0ca6",
             "Value": {
                 "id": "686b6ae5-0162-436e-9158-e13c60a495f5",
@@ -564,6 +620,14 @@
                 "id": "916ec24b-996a-4fcb-a960-61118ca48a0f",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f66240cc-6779-46d3-b83b-59e607c55698",
+            "Value": {
+                "id": "a913bf57-4413-4459-b8e6-6745b6c7157c",
+                "resourcePath": "sprites\\spr_person5\\spr_person5.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
