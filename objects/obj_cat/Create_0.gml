@@ -28,13 +28,13 @@ color = "";
 //sprite = "spr_testCat";
 grabbed = false;
 weirdness = irandom(10);
-talkSprite = spr_testCat;
+//talkSprite = spr_testCat;
 
 movingTowardsShelter = true;
-inQueue = false;
+//inQueue = false;
 
-inRoom = false;
-roomPos = 0;
+//inRoom = false;
+//roomPos = 0;
 
 colorX = irandom(3);
 personalityY = irandom(3);

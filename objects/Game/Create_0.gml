@@ -1,5 +1,3 @@
-/// @description handles the creation of all the global status variables.
-
 randomize();
 
 global.playerScore = 0;
@@ -30,4 +28,4 @@ optionString = [
 ];
 
 timer = room_speed * 60;
-alarm[0] = timer;
+alarm[1] = timer;
