@@ -1,28 +1,18 @@
 {
-    "id": "2ac2a70d-6c4d-4fda-b810-1fc00895ee9f",
+    "id": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Menu",
+    "name": "obj_buttonExitGame",
     "eventList": [
         {
-            "id": "1710b563-89f3-428f-a655-24834ddd34f2",
+            "id": "2739a539-ef15-4a1d-a1e8-3be50bc5a776",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2ac2a70d-6c4d-4fda-b810-1fc00895ee9f"
-        },
-        {
-            "id": "7c64adb2-01e8-418f-bad7-913824336631",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "2ac2a70d-6c4d-4fda-b810-1fc00895ee9f"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "5fc4d28f-9944-4023-95e7-ff7e057409a1",
     "visible": true
 }

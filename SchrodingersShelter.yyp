@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "3b4ab94b-f68d-4bfb-863d-abfdef11384f",
+            "Value": {
+                "id": "52e93897-4c0f-449f-aee3-0d1ffc1d62b7",
+                "resourcePath": "rooms\\menu_startMenu\\menu_startMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3d4dea49-17ef-43ba-a973-4cb695bf0aba",
             "Value": {
                 "id": "9f25f882-129d-4d98-8ad8-e04682a33273",
@@ -260,6 +268,14 @@
                 "id": "93ca588b-83e8-4ed3-9072-7707ad81d90e",
                 "resourcePath": "views\/5f67b549-4082-4b05-b4f9-073ebf428455.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5fc4d28f-9944-4023-95e7-ff7e057409a1",
+            "Value": {
+                "id": "b325f389-a0ae-4b43-bb58-451cc87d3bad",
+                "resourcePath": "sprites\\spr_buttonExitGame\\spr_buttonExitGame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -396,6 +412,14 @@
                 "id": "73c9eb40-ae2d-4784-952d-4c6a97e3e58c",
                 "resourcePath": "views\/a02b9591-242a-4c89-a4a8-f5955c25b03e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b",
+            "Value": {
+                "id": "a3149650-b15e-43b7-8357-3a18d3d9e481",
+                "resourcePath": "objects\\obj_buttonExitGame\\obj_buttonExitGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -543,6 +567,14 @@
             }
         },
         {
+            "Key": "e277ae26-c705-4eee-ab39-b23a50ffdee7",
+            "Value": {
+                "id": "06859b55-c1f2-44b4-9ae7-871574ca9fb2",
+                "resourcePath": "sprites\\spr_buttonStartGame\\spr_buttonStartGame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e2de36b4-9e04-4de0-9573-35846e02d1b6",
             "Value": {
                 "id": "38360187-634b-49ee-8e55-141fe7e40557",
@@ -580,6 +612,14 @@
                 "id": "4e536714-0d2d-4721-9316-b1885e2f548f",
                 "resourcePath": "rooms\/menu_personTraitsMenu\/menu_personTraitsMenu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ebed3562-8e2c-48db-8a8e-084a1629ebb4",
+            "Value": {
+                "id": "0bb466af-a548-4a26-b036-b0ecf075d63f",
+                "resourcePath": "objects\\obj_buttonStartGame\\obj_buttonStartGame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
