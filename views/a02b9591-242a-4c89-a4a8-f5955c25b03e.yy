@@ -13,7 +13,8 @@
         "beb1c53c-11b8-4960-bcc8-6de5fffc8da0",
         "f66240cc-6779-46d3-b83b-59e607c55698",
         "6251e2da-7e9c-46f2-95a7-c4bebc7a8dcf",
-        "1e6e1b38-81ff-477c-a40d-f4ff221fd7c1"
+        "1e6e1b38-81ff-477c-a40d-f4ff221fd7c1",
+        "7b186e48-5432-464c-92ba-197e9ba61c2b"
     ],
     "filterType": "GMSprite",
     "folderName": "TalkSprites",

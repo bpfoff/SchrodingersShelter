@@ -28,3 +28,6 @@ optionString = [
 	"About",
 	"Move"
 ];
+
+timer = room_speed * 60;
+alarm[0] = timer;
