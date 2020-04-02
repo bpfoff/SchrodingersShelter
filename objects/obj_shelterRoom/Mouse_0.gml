@@ -1,3 +1,6 @@
+if(global.selected != noone) {
+
+
 if(object_get_parent(global.selected.object_index) == obj_person){return;}
 
 if (global.selected.grabbed)&&(!global.selected.inRoom) {
@@ -49,4 +52,5 @@ if (global.selected.grabbed)&&(!global.selected.inRoom) {
 	global.selected.id.inRoom = false;
 	global.selected.id.roomPos = 0;
 	currentCapacity--;
+}
 }
