@@ -23,6 +23,7 @@ color = "";
 grabbed = false;
 weirdness = irandom(10);
 talkSprite = spr_testCat;
+pixSprite = spr_testCat;
 
 movingTowardsShelter = true;
 inQueue = true;
@@ -35,6 +36,8 @@ colorX = irandom(3);
 personalityY = irandom(3);
 
 //name = normalCat[colorX][personalityY];
+//nestedName = normalCat[colorX];
+//name = nestedName[personalityY];
 
 if(colorX==0){
 	color = "gray";
@@ -58,4 +61,9 @@ if(personalityY==0){
 
 name = normalCat[colorX, personalityY];
 
-// IF SPAWNING WEIRD CATS (todo: add below)
+catPixSprites = script_execute(assignCatSprites, colorX);
+pixSprite = catPixSprites[personalityY];
+
+
+
+
