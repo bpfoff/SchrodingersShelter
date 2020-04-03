@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "2c93aa1a-ecd8-481d-ac9c-9a0a6f74541b",
+            "Value": {
+                "id": "f0bfa82e-96b6-4fd1-894a-a0a9e71a6eae",
+                "resourcePath": "rooms\\menu_exitScreen\\menu_exitScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2e39a156-c5a3-48fe-aac4-9ea10d8eccb2",
             "Value": {
                 "id": "7c915450-c023-4a6d-b375-1ceed91d01c3",
