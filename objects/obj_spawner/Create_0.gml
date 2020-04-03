@@ -1,10 +1,14 @@
-currentQueue = 0;
+global.currentQueue = 0;
 
-spotOccupied = false;
+spot1Occupied = false;
+spot2Occupied = false;
+spot3Occupied = false;
 
-spotX = 700;
+spotX1 = 700;
+spotX2 = spotX1 + (64 + 10);
+spotX3 = spotX2 + (64 + 10);
 
 spotY = 695 - 64;
 
-timer = 100;
+timer = room_speed * 4;
 alarm[0] = timer;

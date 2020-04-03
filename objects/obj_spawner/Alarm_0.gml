@@ -1,8 +1,8 @@
-if(currentQueue < global.numCats){
+if(global.currentQueue < global.numCats){
 	
-	instance_create_depth(window_get_width() - 384, spotY, 100, obj_testCat);
+	instance_create_depth(window_get_width() + 10, spotY, 100, obj_testCat);
 
-	currentQueue += 1;
+	global.currentQueue += 1;
 	
 }
 

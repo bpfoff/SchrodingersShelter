@@ -33,7 +33,8 @@ weirdness = irandom(10);
 talkSprite = spr_testCat;
 
 movingTowardsShelter = true;
-//inQueue = false;
+inQueue = true;
+currentSpot = 0;
 
 inRoom = false;
 roomPos = 0;

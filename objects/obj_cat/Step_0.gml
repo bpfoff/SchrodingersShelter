@@ -16,6 +16,7 @@ if (grabbed){
 }
 
 if(movingTowardsShelter){
+	/*
 
 	if(x==obj_spawner.spotX){
 
@@ -29,7 +30,27 @@ if(movingTowardsShelter){
 		obj_spawner.spotOccupied = true;	
 		obj_spawner.spotX += (sprite_width + 10);
 	}
+*/
 
+	if(obj_spawner.spot1Occupied == false){
+		if(x==obj_spawner.spotX1){
+			currentSpot = 1;
+			movingTowardsShelter = false;
+			obj_spawner.spot1Occupied = true;
+		}
+	}else if(obj_spawner.spot2Occupied == false){
+		if(x==obj_spawner.spotX2){
+			currentSpot = 2;
+			movingTowardsShelter = false;
+			obj_spawner.spot2Occupied = true;
+		}
+	}else if(obj_spawner.spot3Occupied == false){
+		if(x==obj_spawner.spotX3){
+			currentSpot = 3;
+			movingTowardsShelter = false;
+			obj_spawner.spot3Occupied = true;
+		}
+	}
 	x -= 1;
 
 }
