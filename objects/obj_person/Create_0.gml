@@ -14,4 +14,8 @@ personality = "";
 color = "";
 weirdness = 0;
 
+movingTowardsShelter = true;
+inQueue = true;
+currentSpot = 0;
+
 //The players that are made will be made in such a way that there is always a match.

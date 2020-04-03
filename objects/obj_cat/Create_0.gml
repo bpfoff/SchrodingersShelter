@@ -8,16 +8,6 @@
 //maybe handle room capacities later
 //now they exist
 
-/*
-for(var i = 3; i >= 0; i--){
-	for(var j = 3; j >= 0; j--){
-		normalCats[i,j] = "a";
-	}
-}
-
-*/
-
-//global.roomCheck = false;
 
 event_inherited();
 
