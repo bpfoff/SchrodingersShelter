@@ -1,5 +1,5 @@
 {
-    "id": "f04969f2-c0bd-48c7-8218-d74065282ac8",
+    "id": "cbc2b8e0-85e2-4d6c-a0eb-52b46a6461f3",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_talkSwift",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "a31c08bd-0308-4de7-9584-a479a26a421f",
+            "id": "9b686531-c2a2-4a14-ac3b-c634c8697a59",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "f04969f2-c0bd-48c7-8218-d74065282ac8",
+            "SpriteId": "cbc2b8e0-85e2-4d6c-a0eb-52b46a6461f3",
             "compositeImage": {
-                "id": "2ea59823-996b-453d-89b9-6351df141d7c",
+                "id": "330754e6-098a-4391-9f76-4b79863afbba",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "a31c08bd-0308-4de7-9584-a479a26a421f",
+                "FrameId": "9b686531-c2a2-4a14-ac3b-c634c8697a59",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "3c2a7447-a170-4f80-b056-84eded8a6756",
+                    "id": "3842997c-14f7-4ad7-8344-bf3c31fd86c3",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "a31c08bd-0308-4de7-9584-a479a26a421f",
-                    "LayerId": "bd8ab5d1-ec79-4ee4-add5-19530d95b0eb"
+                    "FrameId": "9b686531-c2a2-4a14-ac3b-c634c8697a59",
+                    "LayerId": "47953966-6587-4a0f-9fea-da80ee92203b"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 3000,
     "layers": [
         {
-            "id": "bd8ab5d1-ec79-4ee4-add5-19530d95b0eb",
+            "id": "47953966-6587-4a0f-9fea-da80ee92203b",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "f04969f2-c0bd-48c7-8218-d74065282ac8",
+            "SpriteId": "cbc2b8e0-85e2-4d6c-a0eb-52b46a6461f3",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
