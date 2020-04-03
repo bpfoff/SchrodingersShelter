@@ -1,5 +1,6 @@
-if(global.selected != noone) {
-
+if(global.selected != noone)&&(global.selected.grabbed) {
+// only enters if a cat is selected
+show_debug_message("we are holding a cat");
 
 if(object_get_parent(global.selected.object_index) == obj_person){return;}
 
@@ -16,6 +17,7 @@ if (global.selected.grabbed)&&(!global.selected.inRoom) {
 	if (currentCapacity >= global.MAX_CAPACITY) {
 	// FIXME transport cat back
 	} else {
+		show_debug_message("selected cat is grabbed and not in room. Room capacity below 3");
 		if (!pos1Occupied) {
 			thisCat.x = positionX1;
 			thisCat.y = positionY1;
