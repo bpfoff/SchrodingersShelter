@@ -16,6 +16,8 @@ for(var i = 3; i >= 0; i--){
 }
 
 */
+
+//global.roomCheck = false;
 event_inherited();
 
 options = [Options.Traits, Options.About, Options.Move];
@@ -31,7 +33,7 @@ weirdness = irandom(10);
 talkSprite = spr_testCat;
 
 movingTowardsShelter = true;
-inQueue = false;
+//inQueue = false;
 
 inRoom = false;
 roomPos = 0;
