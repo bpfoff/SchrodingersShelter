@@ -1,5 +1,8 @@
 randomize();
 
+global.currentCapacity = 0;
+global.dropped = false;
+
 global.playerScore = 0;
 global.isMoving = false;
 
@@ -27,5 +30,5 @@ optionString = [
 	"Move"
 ];
 
-timer = room_speed * 60;
-alarm[1] = timer;
+timer = room_speed * 200;
+alarm[0] = timer;

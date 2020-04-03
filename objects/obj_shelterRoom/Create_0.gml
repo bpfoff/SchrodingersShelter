@@ -1,6 +1,7 @@
 // current capacity of the room, initialize to 0, since there are no cats
 global.MAX_CAPACITY = 3;
-currentCapacity = 0;
+//currentCapacity = 0;
+roomCapacity = 0;
 
 // position the cats and go in
 positionX1 = x + sprite_width*.3;

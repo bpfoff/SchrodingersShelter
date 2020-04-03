@@ -1,4 +1,5 @@
 event_inherited();
+/*
 if(grabbed){
 	
 	grabbed = false;
@@ -10,5 +11,8 @@ if(grabbed){
 	}
 	
 	global.selected = noone;
+	//global.roomCheck = true;
+	
+	show_message("here4");
 	
 }

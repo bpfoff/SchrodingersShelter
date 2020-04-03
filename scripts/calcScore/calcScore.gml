@@ -116,10 +116,18 @@ switch(Game.level_no){
 
         if(tempScore >= 100){global.playerScore += 100;}
         else{global.playerScore += tempScore;}
+		
+		
 
         break;
 
     default:
         break;
 	
+}
+
+if(count==1){
+	show_message("You matched " + string(count) + " trait!\n" + "You earned " + string(tempScore) + " points!");
+}else{
+	show_message("You matched " + string(count) + " traits!\n" + "You earned " + string(tempScore) + " points!");
 }
