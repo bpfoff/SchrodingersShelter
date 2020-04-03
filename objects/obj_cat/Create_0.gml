@@ -18,10 +18,12 @@ for(var i = 3; i >= 0; i--){
 */
 
 //global.roomCheck = false;
+
 event_inherited();
 
 options = [Options.Traits, Options.About, Options.Move];
 
+// IF SPAWNING NORMAL CATS
 normalCat = script_execute(normalCats);
 
 name = "";
@@ -40,6 +42,8 @@ roomPos = 0;
 
 colorX = irandom(3);
 personalityY = irandom(3);
+
+//name = normalCat[colorX][personalityY];
 
 if(colorX==0){
 	color = "gray";
@@ -62,3 +66,5 @@ if(personalityY==0){
 }
 
 name = normalCat[colorX, personalityY];
+
+// IF SPAWNING WEIRD CATS (todo: add below)
