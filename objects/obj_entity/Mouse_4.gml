@@ -1,12 +1,23 @@
-if(instance_exists(obj_personContextMenu)){
+var instance = instance_position(mouse_x,mouse_y,obj_button);
+
+if(!instance_exists(instance)){
 	
-	instance_destroy(obj_personContextMenu);
+	if(instance_exists(obj_personContextMenu)){
+	
+		instance_destroy(obj_personContextMenu);
 
-}
-
-global.selected = id;
+	}
+	
+	global.selected = id;
 
 //When the about menu is selected, you need to pull up a different room that is the info screen.
 
-var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
-newMenu.options = options;
+	if(object_index != obj_testWall){
+	
+		var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
+		newMenu.options = options;
+	
+	}
+	
+}
+

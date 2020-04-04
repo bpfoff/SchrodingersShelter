@@ -4,7 +4,7 @@ hasCat = false;
 
 assignedCat = noone;
 
-options = [Options.Traits, Options.About];
+options = [Options.Traits];
 
 //sprite_index = choose(/*input all human sprites here, so one gets randomly selected.*/);
 
