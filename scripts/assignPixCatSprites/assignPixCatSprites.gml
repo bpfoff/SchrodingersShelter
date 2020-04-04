@@ -10,7 +10,7 @@
 
 catSprites = array_create(4, "");
 
-if (argument1 < 10) {
+if (argument1 ==0) {
 	// normal cats
 	
 if (argument0 == 0) {

@@ -10,9 +10,11 @@ options = [Options.Traits, Options.About];
 
 name = choose("Julio", "Jake", "Tyrone", "Paulette", "Gregor", "Tyler", "Bernardita", "Jacobina", "Jannah");
 talkSprite = choose(spr_person1, spr_person2, spr_person3, spr_person4, spr_person5, spr_person6, spr_person7);
-personality = "";
-color = "";
-weirdness = 0;
+personality = choose("manipulative", "aloof", "dumb", "sweet");
+color = choose("gray", "black", "white", "orange");
+global.wantPersonality = personality;
+global.wantColor = color;
+weirdness = choose(0,1);
 
 movingTowardsShelter = true;
 inQueue = true;

@@ -7,7 +7,11 @@ catWeird = argument0.weirdness;
 catColor = argument0.color;
 personWantColor = argument1.color;
 personWantPersonality = argument1.personality;
-personWantWeird = argument1.Weirdness;
+personWantWeird = argument1.weirdness;
+
+//show_message(catPersonality+catWeird+catColor+ " human " + personWantPersonality+personWantWeird+personWantColor);
+//show_message(catPersonality+catWeird+catColor+ " human " + personWantPersonality+personWantWeird+personWantColor);
+show_message(string(catColor)+ " human " + string(personWantColor));
 
 totalNumMatches = 0;
 

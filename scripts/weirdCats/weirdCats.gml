@@ -30,4 +30,4 @@ weirdCat[2,3] = "Mr. Whiskers"; // long cat
 weirdCat[3,3] = "Coco"; // flame kitty
 
 
-return normalCat;
+return weirdCat;

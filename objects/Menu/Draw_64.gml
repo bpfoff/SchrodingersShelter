@@ -4,8 +4,8 @@ draw_set_color(c_white);
 if(room == menu_personTraitsMenu){
 
     draw_text(window_get_width() * xPos, window_get_height() * 0.20, "Name: " + global.name);
-    draw_text(window_get_width() * xPos, window_get_height() * 0.35, "Wanted Personality: " + global.wantedPersonality);
-    draw_text(window_get_width() * xPos, window_get_height() * 0.50, "Wanted Color: " + global.wantedColor);
+    draw_text(window_get_width() * xPos, window_get_height() * 0.35, "Wanted Personality: " + global.wantPersonality);
+    draw_text(window_get_width() * xPos, window_get_height() * 0.50, "Wanted Color: " + global.wantColor);
     draw_text(window_get_width() * xPos, window_get_height() * 0.65, "Wanted Weirdness: " + string(global.weirdness));	
     if(layer_exists("TalkSprites")){
 

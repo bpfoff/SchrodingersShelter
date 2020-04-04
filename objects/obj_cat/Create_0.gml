@@ -22,7 +22,7 @@ personality = "";
 color = "";
 //sprite = "spr_testCat";
 grabbed = false;
-weirdness = irandom(10);
+weirdness = choose(0,1);
 talkSprite = spr_testCat;
 pixSprite = spr_testCat;
 
@@ -60,7 +60,7 @@ if(personalityY==0){
 	personality = "dumb";
 }
 
-if weirdness < 10 {
+if (weirdness == 0) {
 	name = normalCat[colorX, personalityY];
 } else {
 	name = weirdCat[colorX, personalityY];

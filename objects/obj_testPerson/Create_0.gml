@@ -1,5 +1,5 @@
 event_inherited();
 
-personality = "aloof";
-color = "orange";
-Weirdness = 10;
+//personality = "aloof";
+//color = "orange";
+//Weirdness = 10;
