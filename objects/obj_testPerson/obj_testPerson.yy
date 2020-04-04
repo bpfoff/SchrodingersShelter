@@ -5,16 +5,6 @@
     "name": "obj_testPerson",
     "eventList": [
         {
-            "id": "84f9e54d-4260-499c-9979-65a6f769b6a2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "b51aebd8-eea5-4d96-b664-2237a632d5ff"
-        },
-        {
             "id": "29c7de83-866d-498e-b3cd-0a09fe591f54",
             "modelName": "GMEvent",
             "mvc": "1.0",
