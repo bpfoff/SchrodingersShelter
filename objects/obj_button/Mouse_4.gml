@@ -10,7 +10,7 @@ switch(options){
         openTraitsMenu();
         break;
     case Options.About:
-		global.previous_room = room;	
+		global.previous_room = room;
         openAboutMenu();
         break;
 	case Options.Move:

@@ -1,7 +1,7 @@
 randomize();
 
 global.currentCapacity = 0;
-global.dropped = false;
+//global.dropped = false;
 
 global.playerScore = 0;
 global.isMoving = false;
@@ -25,7 +25,7 @@ enum Options{
 optionString = [
 	
 	"Traits",
-	"About",
+	"Collar",
 	"Move"
 ];
 

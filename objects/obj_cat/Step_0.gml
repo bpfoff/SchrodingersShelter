@@ -16,6 +16,8 @@ if (grabbed){
 	movingTowardsShelter = false;
 }
 
+if(grabbed){global.selected.movingTowardsShelter = false;}
+
 if(movingTowardsShelter){
 	
 	if(obj_spawner.spot1Occupied == false){

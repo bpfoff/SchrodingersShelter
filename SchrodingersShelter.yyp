@@ -847,6 +847,14 @@
             }
         },
         {
+            "Key": "b8cc6d30-cdca-4644-b9dd-09896131b9eb",
+            "Value": {
+                "id": "ca75daca-f6c4-46da-b7e7-df89fe967b20",
+                "resourcePath": "sprites\\spr_buttonExitGameHighlighted\\spr_buttonExitGameHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ba4ddf1b-daed-4136-bcc5-5c7dda17a33b",
             "Value": {
                 "id": "f467d1d0-8289-4f10-93a4-1032f2b1cbec",
@@ -883,6 +891,14 @@
             "Value": {
                 "id": "5899e6fe-5b18-4974-b835-6a2a6f07d224",
                 "resourcePath": "sprites\/spr_testPerson\/spr_testPerson.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c05eb87f-5e6c-4cc9-a3d4-ab08406a3fdf",
+            "Value": {
+                "id": "dfd9be76-5b3c-4cca-903a-d0fc9c54aad2",
+                "resourcePath": "sprites\\spr_buttonStartGameHighlighted\\spr_buttonStartGameHighlighted.yy",
                 "resourceType": "GMSprite"
             }
         },
