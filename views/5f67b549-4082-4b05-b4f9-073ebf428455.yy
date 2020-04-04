@@ -36,7 +36,7 @@
         "84286a4d-2e03-45cd-abc8-0d6a3623d4bb",
         "89a80451-7c8a-4920-a0cf-e1a58ede3431",
         "2fb6050a-ef31-466b-aca5-0b072bf6a85e",
-        "80506bfe-114c-47da-be2a-08ec66261dd8"
+        "197ed4d9-b1ab-4a9a-8553-829dded8597e"
     ],
     "filterType": "GMSprite",
     "folderName": "PixelSprites",

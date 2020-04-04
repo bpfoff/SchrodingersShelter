@@ -25,7 +25,7 @@ if(room == menu_catsTraitsMenu){
     draw_text(window_get_width() * xPos, window_get_height() * 0.65, "Weirdness: " + string(global.weirdness));	
     if(layer_exists("TalkSprites")){
 
-		draw_sprite_ext(global.talkSprite, image_index, 0, window_get_height() - 128, 1, 1, 0, image_blend, 1);
+		draw_sprite_ext(global.talkSprite, image_index, window_get_width() * xPos/5, window_get_height() - 500, 1, 1, 0, image_blend, 1);
 
     }		
 	

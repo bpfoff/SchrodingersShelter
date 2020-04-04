@@ -25,6 +25,7 @@ options = [Options.Traits, Options.About, Options.Move];
 
 // IF SPAWNING NORMAL CATS
 normalCat = script_execute(normalCats);
+weirdCat = script_execute(weirdCats);
 
 name = "";
 personality = "";
@@ -69,11 +70,15 @@ if(personalityY==0){
 	personality = "dumb";
 }
 
-name = normalCat[colorX, personalityY];
+if weirdness < 10 {
+	name = normalCat[colorX, personalityY];
+} else {
+	name = weirdCat[colorX, personalityY];
+}
 
-catPixSprites = script_execute(assignCatSprites, colorX);
+catPixSprites = script_execute(assignPixCatSprites, colorX, weirdness);
 pixSprite = catPixSprites[personalityY];
 
-
-
+catTalkSprites = script_execute(assignTalkCatSprites, colorX, weirdness);
+talkSprite = catTalkSprites[personalityY];
 

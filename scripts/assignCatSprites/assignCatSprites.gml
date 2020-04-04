@@ -1,5 +1,6 @@
 // function assigns sprites to a cat
-// input parameter 1 is colorX of cat
+// input parameter 0 is colorX of cat
+// input parameter 1 is for cat weirdness
 
 //x = color
 //x=0 is gray
@@ -9,6 +10,9 @@
 
 catSprites = array_create(4, "");
 
+if (argument1 == 0) {
+	// normal cats
+	
 if (argument0 == 0) {
 	catSprites[0] = "spr_pixCementmixer";
 	catSprites[1] = "spr_pixYourfatesealed";
@@ -32,6 +36,33 @@ if (argument0 == 3) {
 	catSprites[1] = "spr_pixExtrahands";
 	catSprites[2] = "spr_pixRuination";
 	catSprites[3] = "spr_pixFifthhorseman";
+}
+}
+else if (argument1 == 1) {
+	if (argument0 == 0) {
+	catSprites[0] = "spr_pixRadiation";
+	catSprites[1] = "spr_pixCopycatnyan";
+	catSprites[2] = "spr_pixChompers";
+	catSprites[3] = "spr_pixTrashkitty";
+}
+if (argument0 == 1) {
+	catSprites[0] = "spr_pixVoidcat";
+	catSprites[1] = "spr_pixCopycatluna";
+	catSprites[2] = "spr_pixJanus";
+	catSprites[3] = "spr_pixSchroedinger";
+}
+if (argument0 == 2) {
+	catSprites[0] = "spr_pixPawtergeist";
+	catSprites[1] = "spr_pixCopycatMeowth";
+	catSprites[2] = "spr_pixFishbones";
+	catSprites[3] = "spr_pixLongcat";
+}
+if (argument0 == 3) {
+	catSprites[0] = "spr_pixMedusa";
+	catSprites[1] = "spr_pixCopycatgarf";
+	catSprites[2] = "spr_pixCathulhu";
+	catSprites[3] = "spr_pixFlamekitty";
+}
 }
 
 return catSprites;

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00186651-0aa7-4fc9-a7d3-5adf68e4760d",
+            "Value": {
+                "id": "c6c19fa8-65cf-4208-90a1-36259357e947",
+                "resourcePath": "scripts\\assignTalkCatSprites\\assignTalkCatSprites.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "00a2b32d-3b47-4b45-914b-5a8f43d39cd2",
             "Value": {
                 "id": "d57c429f-d587-4f37-ae79-c9fb4f68d814",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "197ed4d9-b1ab-4a9a-8553-829dded8597e",
+            "Value": {
+                "id": "7c27a40a-a716-4759-b2bf-d578d7ebb062",
+                "resourcePath": "sprites\\spr_pixYourfatesealed\\spr_pixYourfatesealed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19a9d759-ed06-4050-aade-f951bcb17480",
             "Value": {
                 "id": "6d85a188-fb7d-407e-8aab-b1009979b0e9",
@@ -170,7 +186,7 @@
             "Key": "21366c4e-d591-4ce7-8b19-fcc68f8e3fb0",
             "Value": {
                 "id": "516f887b-c2b8-41c5-956d-49e85a585884",
-                "resourcePath": "scripts\\assignCatSprites\\assignCatSprites.yy",
+                "resourcePath": "scripts\\assignPixCatSprites\\assignPixCatSprites.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -643,14 +659,6 @@
             "Value": {
                 "id": "54c4e3f5-58bd-4852-8b0d-fd9c2c397e27",
                 "resourcePath": "sprites\\spr_talkHatred\\spr_talkHatred.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "80506bfe-114c-47da-be2a-08ec66261dd8",
-            "Value": {
-                "id": "e9ffefc3-2e69-42c2-a1f3-8e5c4f42fab7",
-                "resourcePath": "sprites\\spr_pixYourfatesealed\\spr_pixYourfatesealed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1247,6 +1255,7 @@
         "ef4db223-0f83-4194-8a57-3a50b181b948",
         "21366c4e-d591-4ce7-8b19-fcc68f8e3fb0",
         "24666216-a13e-4990-98c7-2cfa06b8e8a8",
+        "00186651-0aa7-4fc9-a7d3-5adf68e4760d",
         "07a26594-03f7-4718-97e2-b0c089050f84"
     ],
     "tutorial": ""
