@@ -14,54 +14,54 @@ if (argument1 < 10) {
 	// normal cats
 	
 if (argument0 == 0) {
-	catSprites[0] = "spr_pixCementmixer";
-	catSprites[1] = "spr_pixYourfatesealed";
-	catSprites[2] = "spr_pixMax";
-	catSprites[3] = "spr_pixCatastrophe";
+	catSprites[0] = spr_pixCementmixer;
+	catSprites[1] = spr_pixYourfatesealed;
+	catSprites[2] = spr_pixMax;
+	catSprites[3] = spr_pixCatastrophe;
 }
 if (argument0 == 1) {
-	catSprites[0] = "spr_pixOriginalsin";
-	catSprites[1] = "spr_pixCraigdestroyer";
-	catSprites[2] = "spr_pixCellardoor";
-	catSprites[3] = "spr_pixRot";
+	catSprites[0] = spr_pixOriginalsin;
+	catSprites[1] = spr_pixCraigdestroyer;
+	catSprites[2] = spr_pixCellardoor;
+	catSprites[3] = spr_pixRot;
 }
 if (argument0 == 2) {
-	catSprites[0] = "spr_pixEntrails";
-	catSprites[1] = "spr_pixSwift";
-	catSprites[2] = "spr_pixHatred";
-	catSprites[3] = "spr_pixSnowball";
+	catSprites[0] = spr_pixEntrails;
+	catSprites[1] = spr_pixSwift;
+	catSprites[2] = spr_pixHatred;
+	catSprites[3] = spr_pixSnowball;
 }
 if (argument0 == 3) {
-	catSprites[0] = "spr_pixTiger";
-	catSprites[1] = "spr_pixExtrahands";
-	catSprites[2] = "spr_pixRuination";
-	catSprites[3] = "spr_pixFifthhorseman";
+	catSprites[0] = spr_pixTiger;
+	catSprites[1] = spr_pixExtrahands;
+	catSprites[2] = spr_pixRuination;
+	catSprites[3] = spr_pixFifthhorseman;
 }
 }
 else {
 	if (argument0 == 0) {
-	catSprites[0] = "spr_pixRadiation";
-	catSprites[1] = "spr_pixCopycatnyan";
-	catSprites[2] = "spr_pixChompers";
-	catSprites[3] = "spr_pixTrashkitty";
+	catSprites[0] = spr_pixRadiation;
+	catSprites[1] = spr_pixCopycatnyan;
+	catSprites[2] = spr_pixChompers;
+	catSprites[3] = spr_pixTrashkitty;
 }
 if (argument0 == 1) {
-	catSprites[0] = "spr_pixVoidcat";
-	catSprites[1] = "spr_pixCopycatluna";
-	catSprites[2] = "spr_pixJanus";
-	catSprites[3] = "spr_pixSchroedinger";
+	catSprites[0] = spr_pixVoidcat;
+	catSprites[1] = spr_pixCopycatluna;
+	catSprites[2] = spr_pixJanus;
+	catSprites[3] = spr_pixSchroedinger;
 }
 if (argument0 == 2) {
-	catSprites[0] = "spr_pixPawtergeist";
-	catSprites[1] = "spr_pixCopycatMeowth";
-	catSprites[2] = "spr_pixFishbones";
-	catSprites[3] = "spr_pixLongcat";
+	catSprites[0] = spr_pixPawtergeist;
+	catSprites[1] = spr_pixCopycatmeowth;
+	catSprites[2] = spr_pixFishbones;
+	catSprites[3] = spr_pixLongcat;
 }
 if (argument0 == 3) {
-	catSprites[0] = "spr_pixMedusa";
-	catSprites[1] = "spr_pixCopycatgarf";
-	catSprites[2] = "spr_pixCathulhu";
-	catSprites[3] = "spr_pixFlamekitty";
+	catSprites[0] = spr_pixMedusa;
+	catSprites[1] = spr_pixCopycatgarf;
+	catSprites[2] = spr_pixCathulhu;
+	catSprites[3] = spr_pixFlamekitty;
 }
 }
 
