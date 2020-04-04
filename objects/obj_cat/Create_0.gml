@@ -72,3 +72,5 @@ pixSprite = catPixSprites[personalityY];
 catTalkSprites = script_execute(assignTalkCatSprites, colorX, weirdness);
 talkSprite = catTalkSprites[personalityY];
 
+object_set_sprite(obj_cat, pixSprite);
+
