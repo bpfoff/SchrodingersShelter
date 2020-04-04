@@ -7,7 +7,7 @@
 //put them in the room
 //maybe handle room capacities later
 //now they exist
-
+//depth = -1000;
 
 event_inherited();
 
@@ -65,12 +65,4 @@ if weirdness < 10 {
 } else {
 	name = weirdCat[colorX, personalityY];
 }
-
-catPixSprites = script_execute(assignPixCatSprites, colorX, weirdness);
-pixSprite = catPixSprites[personalityY];
-
-catTalkSprites = script_execute(assignTalkCatSprites, colorX, weirdness);
-talkSprite = catTalkSprites[personalityY];
-
-object_set_sprite(obj_cat, pixSprite);
 
