@@ -28,7 +28,7 @@ pixSprite = spr_testCat;
 
 movingTowardsShelter = true;
 inQueue = true;
-currentSpot = 0;
+currentSpot = -1;
 
 inRoom = false;
 roomPos = 0;

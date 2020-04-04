@@ -13,6 +13,7 @@ if (grabbed){
 	global.selected = id;
 	var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
 	newMenu.options = options;
+	movingTowardsShelter = false;
 }
 
 if(movingTowardsShelter){
