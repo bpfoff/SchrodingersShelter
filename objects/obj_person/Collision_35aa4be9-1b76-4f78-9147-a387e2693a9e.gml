@@ -18,7 +18,9 @@ if(global.isMoving){
 		obj_spawner.spot3Occupied = false;	
 	}else if(spot == 0){
 		global.currentCapacity--;	
-	}
+	}//else if(spot == -1){
+		
+	//}
 	
 	assignedCat.currentSpot = 0;
 	

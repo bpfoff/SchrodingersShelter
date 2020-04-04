@@ -28,7 +28,7 @@ pixSprite = spr_testCat;
 
 movingTowardsShelter = true;
 inQueue = true;
-currentSpot = 0;
+currentSpot = -1;
 
 inRoom = false;
 roomPos = 0;
@@ -71,4 +71,6 @@ pixSprite = catPixSprites[personalityY];
 
 catTalkSprites = script_execute(assignTalkCatSprites, colorX, weirdness);
 talkSprite = catTalkSprites[personalityY];
+
+object_set_sprite(obj_cat, pixSprite);
 

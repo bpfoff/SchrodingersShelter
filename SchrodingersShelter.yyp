@@ -970,7 +970,7 @@
             "Key": "d38b3500-07b8-4b87-a78a-c3b6d57fbb83",
             "Value": {
                 "id": "37ed7ed2-1dde-485d-b093-30dffb0190bd",
-                "resourcePath": "sprites\\spr_pixExtraHands\\spr_pixExtraHands.yy",
+                "resourcePath": "sprites\\spr_pixExtrahands\\spr_pixExtrahands.yy",
                 "resourceType": "GMSprite"
             }
         },

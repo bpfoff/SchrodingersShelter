@@ -2,7 +2,7 @@
     "id": "d38b3500-07b8-4b87-a78a-c3b6d57fbb83",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_pixExtraHands",
+    "name": "spr_pixExtrahands",
     "For3D": false,
     "HTile": false,
     "VTile": false,

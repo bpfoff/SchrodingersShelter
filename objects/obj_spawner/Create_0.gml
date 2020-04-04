@@ -18,7 +18,7 @@ pspotX1 = 600;
 pspotX2 = pspotX1 - (64 + 10);
 pspotX3 = pspotX2 - (64 + 10);
 
-spotY = 695 - 64;
+spotY = window_get_height() * 0.8763889;
 
 timer = room_speed * 4;
 alarm[0] = timer;
