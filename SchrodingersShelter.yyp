@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "719d7469-ca22-45ff-9266-a39191f3fe2e",
+            "Value": {
+                "id": "3ac9a430-7163-4796-99b1-0cbe957c5b5d",
+                "resourcePath": "sounds\\bgMusic\\bgMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "719efe6b-9f07-4e4f-a0fe-57554677a5c1",
             "Value": {
                 "id": "c8c4d9e4-ff51-4476-9114-13e443aadd3b",

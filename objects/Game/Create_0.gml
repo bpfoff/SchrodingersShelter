@@ -1,5 +1,7 @@
 randomize();
 
+audio_play_sound(bgMusic, 0, true);
+
 global.currentCapacity = 0;
 //global.dropped = false;
 
