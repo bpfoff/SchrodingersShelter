@@ -16,22 +16,7 @@ if (grabbed){
 }
 
 if(movingTowardsShelter){
-	/*
-
-	if(x==obj_spawner.spotX){
-
-		if(obj_spawner.spotOccupied){
-
-			obj_spawner.spotOccupied = false;	
-
-		}
-
-		movingTowardsShelter = false;
-		obj_spawner.spotOccupied = true;	
-		obj_spawner.spotX += (sprite_width + 10);
-	}
-*/
-
+	
 	if(obj_spawner.spot1Occupied == false){
 		if(x==obj_spawner.spotX1){
 			currentSpot = 1;
