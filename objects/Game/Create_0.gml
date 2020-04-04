@@ -7,7 +7,7 @@ global.playerScore = 0;
 global.isMoving = false;
 
 level_no = 0;
-
+level_end = false;
 log = true;
 
 global.selected = noone;
