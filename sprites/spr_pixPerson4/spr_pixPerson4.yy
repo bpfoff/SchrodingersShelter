@@ -2,7 +2,7 @@
     "id": "6464cd31-2964-4416-94fa-4db007f57613",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "owlSprite",
+    "name": "spr_pixPerson4",
     "For3D": false,
     "HTile": false,
     "VTile": false,

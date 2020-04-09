@@ -138,7 +138,7 @@
             "Key": "1295f912-b2ca-45da-9775-411906a65cc4",
             "Value": {
                 "id": "62978756-1c82-422b-8d90-05dd00cb63a2",
-                "resourcePath": "sprites\\wolfSprite\\wolfSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson2\\spr_pixPerson2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -490,7 +490,7 @@
             "Key": "59c71ef4-1f6f-4fd4-b326-935e144ab7df",
             "Value": {
                 "id": "5051e86d-4d2e-4bce-8931-c309002610af",
-                "resourcePath": "sprites\\beaverSprite\\beaverSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson7\\spr_pixPerson7.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -554,7 +554,7 @@
             "Key": "6464cd31-2964-4416-94fa-4db007f57613",
             "Value": {
                 "id": "13cead9a-e5dd-4df0-b85b-af91c36f5bc2",
-                "resourcePath": "sprites\\owlSprite\\owlSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson4\\spr_pixPerson4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -650,7 +650,7 @@
             "Key": "7615910b-6f55-4945-b00c-3d0a7b0e32e2",
             "Value": {
                 "id": "62329813-3488-45eb-b4a5-67890c624529",
-                "resourcePath": "sprites\\ramSprite\\ramSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson1\\spr_pixPerson1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -962,7 +962,7 @@
             "Key": "c74fbb6f-75d6-4b1f-be97-3dd8d60bf935",
             "Value": {
                 "id": "c147c321-746c-4276-90b6-8e14504d9968",
-                "resourcePath": "sprites\\horseSprite\\horseSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson6\\spr_pixPerson6.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1114,7 +1114,7 @@
             "Key": "e67ea766-2d1e-4633-b13e-d2d915c520af",
             "Value": {
                 "id": "c955d0f8-273f-44af-821e-21a47bec1ccd",
-                "resourcePath": "sprites\\birdSprite\\birdSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson3\\spr_pixPerson3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1130,7 +1130,7 @@
             "Key": "e8d4176d-60c3-4571-bdef-b474fccb1183",
             "Value": {
                 "id": "cdba6f6e-f268-404b-9638-86fc6bcc603b",
-                "resourcePath": "sprites\\spr_tutorial\\spr_tutorial.yy",
+                "resourcePath": "sprites\\spr_person0\\spr_person0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1250,7 +1250,7 @@
             "Key": "f24dd4dd-6015-4189-ad34-b0e4d65c15d3",
             "Value": {
                 "id": "d6700062-27e1-4446-ad05-4d95d63ec8a6",
-                "resourcePath": "sprites\\elkSprite\\elkSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson0\\spr_pixPerson0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1290,7 +1290,7 @@
             "Key": "f8090446-de74-42d2-aca3-d1cde1d56a5b",
             "Value": {
                 "id": "c770668b-825a-40a6-b692-6de08234a1bd",
-                "resourcePath": "sprites\\rodentSprite\\rodentSprite.yy",
+                "resourcePath": "sprites\\spr_pixPerson5\\spr_pixPerson5.yy",
                 "resourceType": "GMSprite"
             }
         },
