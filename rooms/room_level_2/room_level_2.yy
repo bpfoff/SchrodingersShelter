@@ -1,6 +1,6 @@
 
 {
-    "name": "room_tutorial",
+    "name": "room_level_2",
     "id": "0a057b12-23a8-4cae-997a-e1d2ca1dfe05",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,

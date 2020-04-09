@@ -31,7 +31,7 @@ inQueue = true;
 currentSpot = -1;
 
 inRoom = false;
-roomPos = 0;
+roomPos = -1;
 
 colorX = irandom(3);
 personalityY = irandom(3);
@@ -65,4 +65,3 @@ if (weirdness == 0) {
 } else {
 	name = weirdCat[colorX, personalityY];
 }
-

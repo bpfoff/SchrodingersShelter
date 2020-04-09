@@ -10,12 +10,20 @@ if(!instance_exists(instance)){
 	
 	global.selected = id;
 
-//When the about menu is selected, you need to pull up a different room that is the info screen.
-
 	if(object_index != obj_testWall){
 	
-		var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
-		newMenu.options = options;
+		if(object_get_parent(object_index) == obj_cat && !global.selected.movingTowardsShelter){
+			
+			var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
+			newMenu.options = options;
+	
+		}
+		else if(object_get_parent(object_index) != obj_cat){
+			
+			var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
+			newMenu.options = options;
+			
+		}
 	
 	}
 	

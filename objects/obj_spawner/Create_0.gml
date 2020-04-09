@@ -1,6 +1,5 @@
 global.currentQueue = 0;
 global.currentPeopleQueue = 0;
-global.numPeople = 2;
 
 spot1Occupied = false;
 spot2Occupied = false;
