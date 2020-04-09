@@ -37,3 +37,7 @@ if(room == menu_startMenu){
 	
 	//draw_sprite(spr_testCat, image_index, window_get_width() * 0.45, window_get_height() * 0.50);
 }
+
+if(room == menu_collar) {
+	draw_text(x, window_get_height() * 0.50, global.collarText);
+}

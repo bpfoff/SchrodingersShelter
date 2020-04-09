@@ -11,6 +11,7 @@ switch(options){
         break;
     case Options.About:
 		global.previous_room = room;
+		global.collarText = global.selected.collar;
         openAboutMenu();
         break;
 	case Options.Move:

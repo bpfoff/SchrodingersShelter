@@ -1295,6 +1295,14 @@
             }
         },
         {
+            "Key": "f7e39da1-5fa8-4f7e-a6bb-c82bd731f550",
+            "Value": {
+                "id": "b7410eef-6967-417a-a4b0-f3111501713c",
+                "resourcePath": "scripts\\chooseCollarText\\chooseCollarText.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f7fbba02-beac-4f7b-89b8-2165c6af3633",
             "Value": {
                 "id": "53f855ab-2d1e-4427-9807-1ee0d6fedc38",
@@ -1360,6 +1368,7 @@
         "21366c4e-d591-4ce7-8b19-fcc68f8e3fb0",
         "24666216-a13e-4990-98c7-2cfa06b8e8a8",
         "00186651-0aa7-4fc9-a7d3-5adf68e4760d",
+        "f7e39da1-5fa8-4f7e-a6bb-c82bd731f550",
         "07a26594-03f7-4718-97e2-b0c089050f84"
     ],
     "tutorial": ""

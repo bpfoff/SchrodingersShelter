@@ -65,3 +65,6 @@ if (weirdness == 0) {
 } else {
 	name = weirdCat[colorX, personalityY];
 }
+
+collar = script_execute(chooseCollarText);
+show_debug_message("Collar Text: " + collar);

@@ -16,3 +16,4 @@ talkSprite = catTalkSprites[personalityY];
 //object_set_sprite(obj_cat, pixSprite);
 sprite_index = pixSprite;
 //object_set_sprite(obj_cat, spr_pixCementmixer);
+
