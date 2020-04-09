@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1295f912-b2ca-45da-9775-411906a65cc4",
+            "Value": {
+                "id": "62978756-1c82-422b-8d90-05dd00cb63a2",
+                "resourcePath": "sprites\\wolfSprite\\wolfSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1331a533-1008-4d65-8852-2cae4a46676c",
             "Value": {
                 "id": "b184df1b-6652-43f7-8c41-01b8f5da3f77",
@@ -479,6 +487,14 @@
             }
         },
         {
+            "Key": "59c71ef4-1f6f-4fd4-b326-935e144ab7df",
+            "Value": {
+                "id": "5051e86d-4d2e-4bce-8931-c309002610af",
+                "resourcePath": "sprites\\beaverSprite\\beaverSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5ad20846-a0f5-401f-864b-a090b23b1765",
             "Value": {
                 "id": "e4cc0af3-abea-488d-b9d2-e2bd4d5145e6",
@@ -532,6 +548,14 @@
                 "id": "44acc9c8-f052-4ef9-a798-a392cf3b718e",
                 "resourcePath": "views\/62e3bb9a-ef79-4567-a184-a725277afa40.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6464cd31-2964-4416-94fa-4db007f57613",
+            "Value": {
+                "id": "13cead9a-e5dd-4df0-b85b-af91c36f5bc2",
+                "resourcePath": "sprites\\owlSprite\\owlSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -619,6 +643,14 @@
             "Value": {
                 "id": "c4b70806-43b4-4d7f-8bc2-0a077a1692a3",
                 "resourcePath": "sprites\\spr_talkFishbones\\spr_talkFishbones.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7615910b-6f55-4945-b00c-3d0a7b0e32e2",
+            "Value": {
+                "id": "62329813-3488-45eb-b4a5-67890c624529",
+                "resourcePath": "sprites\\ramSprite\\ramSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -927,6 +959,14 @@
             }
         },
         {
+            "Key": "c74fbb6f-75d6-4b1f-be97-3dd8d60bf935",
+            "Value": {
+                "id": "c147c321-746c-4276-90b6-8e14504d9968",
+                "resourcePath": "sprites\\horseSprite\\horseSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cbc2b8e0-85e2-4d6c-a0eb-52b46a6461f3",
             "Value": {
                 "id": "079b1fa2-314f-4e0a-bc72-7408abce114d",
@@ -1071,6 +1111,14 @@
             }
         },
         {
+            "Key": "e67ea766-2d1e-4633-b13e-d2d915c520af",
+            "Value": {
+                "id": "c955d0f8-273f-44af-821e-21a47bec1ccd",
+                "resourcePath": "sprites\\birdSprite\\birdSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e71f9737-0573-40e9-8eb0-911f70dba5e2",
             "Value": {
                 "id": "a999c459-0124-4b60-bc71-c9725ee65aa1",
@@ -1199,6 +1247,14 @@
             }
         },
         {
+            "Key": "f24dd4dd-6015-4189-ad34-b0e4d65c15d3",
+            "Value": {
+                "id": "d6700062-27e1-4446-ad05-4d95d63ec8a6",
+                "resourcePath": "sprites\\elkSprite\\elkSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "916ec24b-996a-4fcb-a960-61118ca48a0f",
@@ -1227,6 +1283,14 @@
             "Value": {
                 "id": "53f855ab-2d1e-4427-9807-1ee0d6fedc38",
                 "resourcePath": "sprites\\spr_talkOriginalsin\\spr_talkOriginalsin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f8090446-de74-42d2-aca3-d1cde1d56a5b",
+            "Value": {
+                "id": "c770668b-825a-40a6-b692-6de08234a1bd",
+                "resourcePath": "sprites\\rodentSprite\\rodentSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
