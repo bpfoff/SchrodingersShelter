@@ -90,7 +90,7 @@
             "Key": "0a057b12-23a8-4cae-997a-e1d2ca1dfe05",
             "Value": {
                 "id": "5272a20e-30c1-496c-8a6e-2649c8f29bf5",
-                "resourcePath": "rooms\/room_tutorial\/room_tutorial.yy",
+                "resourcePath": "rooms\\room_level_2\\room_level_2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -172,6 +172,14 @@
                 "id": "6d85a188-fb7d-407e-8aab-b1009979b0e9",
                 "resourcePath": "sprites\\spr_pixPawtergeist\\spr_pixPawtergeist.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c1edbaf-d371-4db5-9081-0448630ff390",
+            "Value": {
+                "id": "82f03e7c-76e6-4454-b6cd-ddf4bf0a2764",
+                "resourcePath": "rooms\\menu_collar\\menu_collar.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -759,6 +767,14 @@
             }
         },
         {
+            "Key": "91ac0414-a231-4066-8485-b9ecc6774891",
+            "Value": {
+                "id": "95a55788-e986-4f8a-81c8-1528e735c2db",
+                "resourcePath": "rooms\\room_level_3\\room_level_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "93712874-3d44-4fe8-9533-a19c664bf5d1",
             "Value": {
                 "id": "5ba3dbc4-879f-4800-a7c5-6a85454d9930",
@@ -1226,7 +1242,7 @@
             "Key": "f045cc56-e0e5-4a49-841f-404a14ca56d5",
             "Value": {
                 "id": "aa9a4307-f56b-42bd-82e3-cb2d851f2a26",
-                "resourcePath": "rooms\/room_testDevelopmentRoom\/room_testDevelopmentRoom.yy",
+                "resourcePath": "rooms\\room_level_1\\room_level_1.yy",
                 "resourceType": "GMRoom"
             }
         },

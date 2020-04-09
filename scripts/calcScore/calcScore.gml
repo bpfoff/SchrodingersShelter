@@ -20,7 +20,7 @@ count = 0;
 switch(Game.level_no){
 	
 	case 0:
-        totalNumMatches = 3;
+        totalNumMatches = 1;
         if(personWantColor == catColor){
 
             count++;

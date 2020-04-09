@@ -1,8 +1,5 @@
 if (grabbed){
-	/*if(inRoom) {
-		inRoom = false;
-		roomPos = 0;
-	}*/
+
     x = mouse_x;
     y = mouse_y;
 	if(instance_exists(obj_personContextMenu)){
@@ -13,7 +10,7 @@ if (grabbed){
 	global.selected = id;
 	var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
 	newMenu.options = options;
-	movingTowardsShelter = false;
+	//movingTowardsShelter = false;
 }
 
 if(grabbed){global.selected.movingTowardsShelter = false;}

@@ -6,11 +6,12 @@ global.currentCapacity = 0;
 //global.dropped = false;
 
 global.playerScore = 0;
+global.currentNumCats = 0;
 global.isMoving = false;
 
 level_no = 0;
 level_end = false;
-log = true;
+//log = true;
 
 global.selected = noone;
 
