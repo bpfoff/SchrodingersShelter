@@ -1,5 +1,4 @@
-
-var instance = instance_position(mouse_x,mouse_y,obj_button);
+/*var instance = instance_position(mouse_x,mouse_y,obj_button);
 
 if(!instance_exists(instance)){
 
@@ -18,7 +17,7 @@ if(!instance_exists(instance)){
 
 			}
 	
-			global.selected = noone;
+			//global.selected = noone;
 
 			if (roomCapacity >= global.MAX_CAPACITY) {
 
@@ -88,4 +87,4 @@ if(!instance_exists(instance)){
 			}
 		}
 	}
-}
+}*/

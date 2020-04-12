@@ -1,5 +1,6 @@
 timer = 4;
 click = false;
+
 switch(options){
 	case Options.Move:
 		click = true;
