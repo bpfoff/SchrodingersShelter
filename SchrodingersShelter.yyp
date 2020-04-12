@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "378efd8d-531f-41f2-8294-d4482ed150fd",
+            "Value": {
+                "id": "a965bcce-0c14-414f-af25-6f06aeccd47e",
+                "resourcePath": "objects\\obj_buttonOptionsButton\\obj_buttonOptionsButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "388a6bac-61c9-4401-8d8b-61094552b7f3",
             "Value": {
                 "id": "7a9d58c9-1d01-4735-b718-f0fc1690206f",
@@ -619,6 +627,14 @@
             "Value": {
                 "id": "e4be3ee7-40fc-44df-bdb1-46438b0d7521",
                 "resourcePath": "sprites\\spr_pixJanus\\spr_pixJanus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f34563a-b19f-4c72-a8e6-bcd46a7dc329",
+            "Value": {
+                "id": "f72e2cee-d7cd-4cf0-8762-c33515dad73e",
+                "resourcePath": "sprites\\spr_buttonOptionsButton\\spr_buttonOptionsButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -964,6 +980,14 @@
                 "id": "708c00cb-3208-4f33-9477-542dde58f483",
                 "resourcePath": "views\/bcff8827-20e2-491b-85ea-236aaee9505c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bdc94e0d-edaf-49b5-be30-88e1d5b2b988",
+            "Value": {
+                "id": "a54ce33f-c1a3-475a-813a-3215b08b90dc",
+                "resourcePath": "rooms\\menu_howToPlayMenu\\menu_howToPlayMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
