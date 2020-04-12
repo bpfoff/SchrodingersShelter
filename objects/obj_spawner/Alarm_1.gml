@@ -6,4 +6,4 @@ if(global.currentPeopleQueue < global.numPeople){
 	
 }
 
-alarm[1] = timer2;
+alarm[1] = personTimer;

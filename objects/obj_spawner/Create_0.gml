@@ -19,8 +19,21 @@ pspotX3 = pspotX2 - (64 + 10);
 
 spotY = window_get_height() * 0.8763889;
 
-timer = room_speed * 4;
-alarm[0] = timer;
 
-timer2 = room_speed * 7;
-alarm[1] = timer2;
+if (room == room_level_1) {
+	catWait = 4;
+	personWait = 7;
+} else if (room == room_level_2) {
+	catWait = 3;
+	personWait = 5;
+} else if (room == room_level_3) {
+	catWait = 2;
+	personWait = 4;
+}
+	
+
+catTimer = room_speed * catWait;
+alarm[0] = catTimer;
+
+personTimer = room_speed * personWait;
+alarm[1] = personTimer;
