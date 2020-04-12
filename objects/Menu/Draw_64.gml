@@ -39,5 +39,17 @@ if(room == menu_startMenu){
 }
 
 if(room == menu_collar) {
-	draw_text(x, window_get_height() * 0.50, global.collarText);
+	//draw_text_transformed(300, 300,(draw_text_ext(200, 200, global.collarText, string_height(global.collarText), 300)), 2, 2, image_angle + 76);
+	
+	//draw_text_ext_transformed(300, 370, global.collarText, string_height(global.collarText), 350, 1,1, image_angle + 67);
+	
+	draw_set_halign(fa_center);
+	draw_set_valign(fa_middle);
+	draw_set_colour(c_dkgray);
+	draw_set_font(font_collarText);
+	draw_text_ext_transformed(305, 395, global.collarText, string_height(global.collarText), 350, 1,1, image_angle + 19);
+	draw_set_font(font_menuFont1);
+	draw_set_color(c_white);
+	draw_set_halign(fa_left);
+	draw_set_valign(fa_top);
 }

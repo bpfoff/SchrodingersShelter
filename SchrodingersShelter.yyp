@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "46feeb02-5fc3-4b64-bf32-9a2abb28ed4d",
+            "Value": {
+                "id": "de53ec41-8729-435d-bee9-78c717698d63",
+                "resourcePath": "sprites\\spr_collar\\spr_collar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "48048545-594e-48e0-81d8-d9af4d52bd4a",
             "Value": {
                 "id": "a54efa0b-e761-4302-9727-a34eaf09a8e0",
@@ -428,6 +436,14 @@
                 "id": "1b776c82-8dd0-4d30-b621-1499863c6115",
                 "resourcePath": "objects\/obj_button\/obj_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4f377c60-ece1-459f-9542-3f9ceb1f949a",
+            "Value": {
+                "id": "ba6ef02f-e074-4721-92fc-e06b197e2856",
+                "resourcePath": "fonts\\font_collarText\\font_collarText.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -844,6 +860,14 @@
                 "id": "a3149650-b15e-43b7-8357-3a18d3d9e481",
                 "resourcePath": "objects\\obj_buttonExitGame\\obj_buttonExitGame.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a1c236d4-3e05-4198-bd5b-6d141da35bd0",
+            "Value": {
+                "id": "64495eb2-2995-4fd5-be51-18467700ea9f",
+                "resourcePath": "sprites\\spr_collar_background\\spr_collar_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
