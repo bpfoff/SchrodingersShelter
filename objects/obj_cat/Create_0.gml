@@ -11,7 +11,7 @@
 
 event_inherited();
 
-options = [Options.Traits, Options.About, Options.Move];
+options = [Options.Move, Options.Traits, Options.About];
 
 // IF SPAWNING NORMAL CATS
 normalCat = script_execute(normalCats);
