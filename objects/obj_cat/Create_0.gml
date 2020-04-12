@@ -17,6 +17,8 @@ options = [Options.Move, Options.Traits, Options.About];
 normalCat = script_execute(normalCats);
 weirdCat = script_execute(weirdCats);
 
+roomID = noone;
+
 name = "";
 personality = "";
 color = "";

@@ -23,6 +23,34 @@ if(global.isMoving){
 		global.currentCapacity--;	
 	}
 	
+	if(spot == 0){
+		
+		assignedCat.inRoom = false;
+		
+		//show_debug_message(assignedCat.roomID.roomCapacity);
+		
+		switch(assignedCat.roomPos){
+			case 0:
+				assignedCat.roomID.pos1Occupied = false;
+				assignedCat.roomID.roomCapacity--;
+				break;
+			case 1:
+				assignedCat.roomID.pos3Occupied = false;
+				assignedCat.roomID.roomCapacity--;
+				break;
+			case 2:
+				assignedCat.roomID.pos3Occupied = false;
+				assignedCat.roomID.roomCapacity--;
+				break;
+			default:
+				break;
+		}
+
+		assignedCat.roomPos = -1;
+		//show_debug_message(assignedCat.roomID.roomCapacity);
+		
+	}
+	
 	assignedCat.currentSpot = 0;
 	
 	if(currentSpot==1){
