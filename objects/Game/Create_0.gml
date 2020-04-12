@@ -27,9 +27,10 @@ enum Options{
 
 optionString = [
 	
+	"Move",
 	"Traits",
-	"Collar",
-	"Move"
+	"Collar"
+	
 ];
 
 timer = room_speed * 200;
