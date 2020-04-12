@@ -6,4 +6,4 @@ if(global.currentQueue < global.numCats){
 	
 }
 
-alarm[0] = timer;
+alarm[0] = catTimer;
