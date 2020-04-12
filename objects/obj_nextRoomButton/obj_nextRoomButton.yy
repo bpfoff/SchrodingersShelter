@@ -1,38 +1,28 @@
 {
-    "id": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b",
+    "id": "74decafb-cca9-49c7-937a-919811109ec1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_buttonExitGame",
+    "name": "obj_nextRoomButton",
     "eventList": [
         {
-            "id": "2739a539-ef15-4a1d-a1e8-3be50bc5a776",
+            "id": "e31cf8e3-5333-4fa2-bc54-4e73f49b32bb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b"
+            "m_owner": "74decafb-cca9-49c7-937a-919811109ec1"
         },
         {
-            "id": "f7ac4988-4cb8-4fff-b0b4-225e4a797fdc",
+            "id": "4960f558-e3ec-4a5b-8cfc-1e0faecc1e2e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b"
-        },
-        {
-            "id": "59319dd7-4037-452a-a514-f8b1064d4e34",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b"
+            "m_owner": "74decafb-cca9-49c7-937a-919811109ec1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5fc4d28f-9944-4023-95e7-ff7e057409a1",
+    "spriteId": "671da975-6a59-4811-9588-6f402bb956ec",
     "visible": true
 }

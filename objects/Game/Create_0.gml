@@ -1,5 +1,6 @@
 randomize();
 
+audio_stop_sound(bgMusic);
 audio_play_sound(bgMusic, 0, true);
 
 global.currentCapacity = 0;

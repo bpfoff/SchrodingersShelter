@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "671da975-6a59-4811-9588-6f402bb956ec",
+            "Value": {
+                "id": "02c7a72a-bff9-4013-9c41-6f5b4fd52aff",
+                "resourcePath": "sprites\\spr_buttonNextRoom\\spr_buttonNextRoom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69f92e70-5954-4836-ae48-9d68442c0407",
             "Value": {
                 "id": "8a4fd8bd-bcb7-4ab8-9de4-90a9c9b149e9",
@@ -644,6 +652,14 @@
                 "id": "c5b4155c-fffa-435c-bc9d-ef18f0aceb72",
                 "resourcePath": "sprites\\spr_person3\\spr_person3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74decafb-cca9-49c7-937a-919811109ec1",
+            "Value": {
+                "id": "4e3d1efd-fbb5-4400-93e1-61ac5a75157d",
+                "resourcePath": "objects\\obj_nextRoomButton\\obj_nextRoomButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -883,6 +899,14 @@
             "Value": {
                 "id": "5e05c278-98c6-4f5a-89d9-6a15cbaca0bb",
                 "resourcePath": "sprites\\spr_pixMax\\spr_pixMax.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "afcdca15-e6de-4b59-8ae6-1c4ef065704e",
+            "Value": {
+                "id": "fc1164ee-3023-48e5-92ff-8be067779527",
+                "resourcePath": "sprites\\spr_buttonNextRoomHighlighted\\spr_buttonNextRoomHighlighted.yy",
                 "resourceType": "GMSprite"
             }
         },
