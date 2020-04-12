@@ -1,5 +1,6 @@
 var instance = instance_position(mouse_x,mouse_y,obj_button);
-
+global.wantPersonality = personality;
+global.wantColor = color;
 if(!instance_exists(instance)){
 	
 	if(instance_exists(obj_personContextMenu)){

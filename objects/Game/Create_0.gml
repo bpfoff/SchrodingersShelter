@@ -19,17 +19,19 @@ enum Options{
 
 	//Here the menu options for when you click on a player will go.
 	
+	Move,
 	Traits,
-	About,
-	Move
+	About
+	
 	
 };
 
 optionString = [
 	
+	"Move",
 	"Traits",
-	"Collar",
-	"Move"
+	"Collar"
+	
 ];
 
 timer = room_speed * 200;

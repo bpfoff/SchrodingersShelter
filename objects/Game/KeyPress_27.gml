@@ -1,1 +1,2 @@
-game_end();
+global.previous_room = room;
+room_goto(menu_pauseMenu);

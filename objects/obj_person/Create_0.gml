@@ -12,8 +12,7 @@ name = choose("Julio", "Jake", "Tyrone", "Paulette", "Gregor", "Tyler", "Bernard
 talkSprite = choose(spr_person0, spr_person1, spr_person2, spr_person3, spr_person4, spr_person5, spr_person6, spr_person7);
 personality = choose("manipulative", "aloof", "dumb", "sweet");
 color = choose("gray", "black", "white", "orange");
-global.wantPersonality = personality;
-global.wantColor = color;
+
 weirdness = choose(0,1);
 
 pixSprite = spr_testPerson;

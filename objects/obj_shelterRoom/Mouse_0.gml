@@ -8,7 +8,9 @@ if(!instance_exists(instance)){
 
 		if ((global.selected.grabbed) && (!global.selected.inRoom)) {
 			thisCat = global.selected.id;
-		
+			
+			thisCat.roomID = id;
+			
 			global.selected.grabbed = false;
 		
 			if(instance_exists(obj_personContextMenu)){
@@ -70,7 +72,7 @@ if(!instance_exists(instance)){
 			
 		}
 		
-		else if ((global.selected.grabbed)&&(global.selected.inRoom)) {
+		/*else if ((global.selected.grabbed)&&(global.selected.inRoom)) {
 	
 			position = global.selected.id.roomPos;
 			
@@ -85,6 +87,6 @@ if(!instance_exists(instance)){
 			} else if (position == 2) {
 				pos3Occupied = false;
 			}
-		}
+		}*/
 	}
 }

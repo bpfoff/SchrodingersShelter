@@ -17,9 +17,9 @@ totalNumMatches = 0;
 
 count = 0;
 
-switch(Game.level_no){
+switch(global.current_level){
 	
-	case 0:
+	/*case room_level_0:
         totalNumMatches = 1;
         if(personWantColor == catColor){
 
@@ -42,8 +42,8 @@ switch(Game.level_no){
         if(tempScore >= 100){global.playerScore += 100;}
         else{global.playerScore += tempScore;}
 
-        break;
-    case 1:
+        break; */
+    case room_level_1:
         //Only need one trait to be true;
         totalNumMatches = 1;
 		
@@ -70,7 +70,7 @@ switch(Game.level_no){
 
         break;
 
-    case 2:
+    case room_level_2:
         totalNumMatches = 2;
         //Only need two traits to be true        
         
@@ -97,7 +97,7 @@ switch(Game.level_no){
 
         break;
         
-    case 3:
+    case room_level_3:
         totalNumMatches = 3;
         //Only need three traits to be true;
         if(personWantColor == catColor){
