@@ -15,13 +15,13 @@ if(!instance_exists(instance)){
 	
 		if(object_get_parent(object_index) == obj_cat && !global.selected.movingTowardsShelter){
 			
-			var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
+			var newMenu = instance_create_layer(x + sprite_width , y - 15, "Instances", obj_personContextMenu);
 			newMenu.options = options;
 	
 		}
 		else if(object_get_parent(object_index) != obj_cat){
 			
-			var newMenu = instance_create_layer(x + sprite_width , y, "Instances", obj_personContextMenu);
+			var newMenu = instance_create_layer(x + sprite_width , y - 15, "Instances", obj_personContextMenu);
 			newMenu.options = options;
 			
 		}
