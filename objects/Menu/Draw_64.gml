@@ -60,3 +60,18 @@ if(room == menu_collar) {
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_top);
 }
+
+if(room == menu_howToPlayMenu){
+	
+    draw_text(window_get_width() * xPos - 100, window_get_height() * 0.05, "HOW TO PLAY");
+    draw_text(100, window_get_height() * 0.20, "1 - People and cats will line up outside shelter.");
+	draw_text(150, window_get_height() * 0.25, "Drag a cat to a person to adopt it.");
+    draw_text(100, window_get_height() * 0.35, "2 - You can either adopt the cat from the queue, or"); 
+	draw_text(150, window_get_height() * 0.40, "move it to a shelter room.");
+	draw_text(100, window_get_height() * 0.50, "3 - Try to match the adopter's wanted characteristics ");
+	draw_text(150, window_get_height() * 0.55, "to the cats characteristics to get more points!");
+	draw_text(100, window_get_height() * 0.65, "4 - The day ends when time runs out.");
+    draw_text(100, window_get_height() * 0.80, "Careful! A cat cannot be moved from a shelter room unless");
+	draw_text(150, window_get_height() * 0.85, "its getting adopted!");		
+	
+}
