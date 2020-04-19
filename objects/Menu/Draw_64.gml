@@ -35,13 +35,9 @@ if(room == menu_startMenu){
 	
 	draw_text_transformed(window_get_width() * 0.20, window_get_height() * 0.10, "Schrodinger's Shelter",2,3,0);
 	
-	//draw_sprite(spr_testCat, image_index, window_get_width() * 0.45, window_get_height() * 0.50);
 }
 
 if(room == menu_collar) {
-	//draw_text_transformed(300, 300,(draw_text_ext(200, 200, global.collarText, string_height(global.collarText), 300)), 2, 2, image_angle + 76);
-	
-	//draw_text_ext_transformed(300, 370, global.collarText, string_height(global.collarText), 350, 1,1, image_angle + 67);
 	
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);

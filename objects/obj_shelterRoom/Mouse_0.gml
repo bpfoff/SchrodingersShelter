@@ -81,21 +81,5 @@ if(!instance_exists(instance)){
 			
 		}
 		
-		/*else if ((global.selected.grabbed)&&(global.selected.inRoom)) {
-	
-			position = global.selected.id.roomPos;
-			
-			global.selected.id.inRoom = false;
-			global.selected.id.roomPos = -1;
-			roomCapacity--;
-	
-			if (position == 0) {
-				pos1Occupied = false;
-			} else if (position == 1) {
-				pos2Occupied = false;
-			} else if (position == 2) {
-				pos3Occupied = false;
-			}
-		}*/
 	}
 }
