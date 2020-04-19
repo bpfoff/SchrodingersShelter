@@ -3,10 +3,12 @@ draw_set_color(c_white);
 
 if(room == menu_personTraitsMenu){
 
-    draw_text(window_get_width() * xPos, window_get_height() * 0.20, "Name: " + global.name);
-    draw_text(window_get_width() * xPos, window_get_height() * 0.35, "Wanted Personality: " + global.wantPersonality);
-    draw_text(window_get_width() * xPos, window_get_height() * 0.50, "Wanted Color: " + global.wantColor);
-    draw_text(window_get_width() * xPos, window_get_height() * 0.65, "Wanted Weirdness: " + string(global.weirdness));	
+	 
+    draw_text(window_get_width() * xPos, window_get_height() * 0.05, "Name: " + global.name);
+	draw_text(window_get_width() * xPos, window_get_height() * 0.20, "Wanted Characteristics:");
+    draw_text(window_get_width() * xPos, window_get_height() * 0.35, "Personality: " + global.wantPersonality);
+    draw_text(window_get_width() * xPos, window_get_height() * 0.50, "Color: " + global.wantColor);
+    draw_text(window_get_width() * xPos, window_get_height() * 0.65, "Weirdness: " + string(global.weirdness));	
     if(layer_exists("TalkSprites")){
 
 		draw_sprite_ext(spr_personBody, image_index, window_get_width() * xPos/2, window_get_height() - 350, 1, 1, 0, image_blend, 1);
@@ -18,8 +20,13 @@ if(room == menu_personTraitsMenu){
 }
 
 if(room == menu_catsTraitsMenu){
-	
-    draw_text(window_get_width() * xPos, window_get_height() * 0.20, "Name: " + global.name);
+	if (string_length(global.name) > 20) {
+		draw_text(window_get_width() * xPos, window_get_height() * 0.20, "Name: ");
+		draw_text(window_get_width() * xPos, window_get_height() * 0.27, global.name);
+	} else {
+		draw_text(window_get_width() * xPos, window_get_height() * 0.20, "Name: " + global.name);
+	}
+    
     draw_text(window_get_width() * xPos, window_get_height() * 0.35, "Personality: " + global.wantedPersonality);
     draw_text(window_get_width() * xPos, window_get_height() * 0.50, "Color: " + global.wantedColor);
     draw_text(window_get_width() * xPos, window_get_height() * 0.65, "Weirdness: " + string(global.weirdness));	

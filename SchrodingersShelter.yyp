@@ -1367,6 +1367,14 @@
             }
         },
         {
+            "Key": "f4a3ca7c-41fd-4ec2-8ecb-1d35ba66dd09",
+            "Value": {
+                "id": "eced97f3-23fc-406f-a51c-9dbdc3471a71",
+                "resourcePath": "sprites\\spr_traitMenuBack\\spr_traitMenuBack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f66240cc-6779-46d3-b83b-59e607c55698",
             "Value": {
                 "id": "a913bf57-4413-4459-b8e6-6745b6c7157c",
