@@ -39,8 +39,8 @@ if(room == menu_catsTraitsMenu){
 }
 
 if(room == menu_startMenu){
-	
-	draw_text_transformed(window_get_width() * 0.20, window_get_height() * 0.10, "Schrodinger's Shelter",2,3,0);
+	draw_set_font(font_titleFont);
+	draw_text_transformed(window_get_width() * 0.20, window_get_height() * 0.15, "Schrodinger's Shelter",2,3,0);
 	
 }
 
