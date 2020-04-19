@@ -19,8 +19,6 @@ if(global.isMoving){
 	}else if(spot == 3){
 		obj_spawner.spot3Occupied = false;
 		global.currentQueue--;
-	}else if(spot == 0){
-		global.currentCapacity--;	
 	}
 	
 	if(spot == 0){
@@ -35,7 +33,7 @@ if(global.isMoving){
 				assignedCat.roomID.roomCapacity--;
 				break;
 			case 1:
-				assignedCat.roomID.pos3Occupied = false;
+				assignedCat.roomID.pos2Occupied = false;
 				assignedCat.roomID.roomCapacity--;
 				break;
 			case 2:
@@ -44,6 +42,9 @@ if(global.isMoving){
 				break;
 			default:
 				break;
+				
+		global.currentCapacity--;	
+				
 		}
 
 		assignedCat.roomPos = -1;
