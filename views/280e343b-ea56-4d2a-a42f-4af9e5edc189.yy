@@ -15,7 +15,8 @@
         "afcdca15-e6de-4b59-8ae6-1c4ef065704e",
         "6f34563a-b19f-4c72-a8e6-bcd46a7dc329",
         "321cdeef-d591-43cc-b637-b068cbf46ad9",
-        "fbb6a4ca-f6b6-4146-845d-f67a554b4f40"
+        "fbb6a4ca-f6b6-4146-845d-f67a554b4f40",
+        "e3252d5a-204d-46f0-b1ed-0b73ac0f1e3a"
     ],
     "filterType": "GMSprite",
     "folderName": "MenuSprites",

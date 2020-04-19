@@ -1,4 +1,4 @@
-draw_set_font(font_menuFont1);
+draw_set_font(font_titleFont);
 
 if (!level_end){
 	
