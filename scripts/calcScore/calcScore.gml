@@ -9,40 +9,14 @@ personWantColor = argument1.color;
 personWantPersonality = argument1.personality;
 personWantWeird = argument1.weirdness;
 
-//show_message(catPersonality+catWeird+catColor+ " human " + personWantPersonality+personWantWeird+personWantColor);
-//show_message(catPersonality+catWeird+catColor+ " human " + personWantPersonality+personWantWeird+personWantColor);
-show_message(string(catColor)+ " human " + string(personWantColor));
-
 totalNumMatches = 0;
 
 count = 0;
 
+finalScore = 0;
+
 switch(global.current_level){
 	
-	/*case room_level_0:
-        totalNumMatches = 1;
-        if(personWantColor == catColor){
-
-            count++;
-
-        }
-        if(personWantPersonality == catPersonality){
-
-            count++;
-
-        }
-        if(personWantWeird == catWeird){
-
-            count++;
-
-        }
-
-        tempScore = (count / totalNumMatches) * 100;
-
-        if(tempScore >= 100){global.playerScore += 100;}
-        else{global.playerScore += tempScore;}
-
-        break; */
     case room_level_1:
         //Only need one trait to be true;
         totalNumMatches = 1;
@@ -65,8 +39,14 @@ switch(global.current_level){
 
         tempScore = (count / totalNumMatches) * 100;
 
-        if(tempScore >= 100){global.playerScore += 100;}
-        else{global.playerScore += tempScore;}
+        if(tempScore >= 100){
+			global.playerScore += 100;
+			finalScore = 100;
+		}
+        else{
+			global.playerScore += tempScore;
+			finalScore = tempScore;
+		}
 
         break;
 
@@ -90,10 +70,16 @@ switch(global.current_level){
 
         }
 
-        tempScore = (count / totalNumMatches) * 100;
+        tempScore = (count / totalNumMatches) * 200;
 
-        if(tempScore >= 100){global.playerScore += 100;}
-        else{global.playerScore += tempScore;}
+        if(tempScore >= 200){
+			global.playerScore += 200;
+			finalScore = 200;
+		}
+        else{
+			global.playerScore += tempScore;
+			finalScore = tempScore;
+		}
 
         break;
         
@@ -116,13 +102,16 @@ switch(global.current_level){
 
         }
 
-        tempScore = (count / totalNumMatches) * 100;
+        tempScore = (count / totalNumMatches) * 300;
 
-        if(tempScore >= 100){global.playerScore += 100;}
-        else{global.playerScore += tempScore;}
-		
-		
-
+        if(tempScore >= 300){
+			global.playerScore += 300;
+			finalScore = 300;
+		}
+        else{
+			global.playerScore += tempScore;
+			finalScore = tempScore;
+		}
         break;
 
     default:
@@ -130,8 +119,4 @@ switch(global.current_level){
 	
 }
 
-if(count==1){
-	show_message("You matched " + string(count) + " trait!\n" + "You earned " + string(tempScore) + " points!");
-}else{
-	show_message("You matched " + string(count) + " traits!\n" + "You earned " + string(tempScore) + " points!");
-}
+show_message("You matched " + string(count) + " traits!\n" + "You earned " + string(finalScore) + " points!");

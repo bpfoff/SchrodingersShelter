@@ -5,6 +5,15 @@ if(!instance_exists(instance)){
 	if(global.selected != noone) {
 	
 		if(object_get_parent(global.selected.object_index) == obj_person){return;}
+		
+		if(global.selected.grabbed && global.selected.inRoom){
+			
+			currCat = global.selected.id;
+			
+			currCat.x = global.currentX;
+			currCat.y = global.currentY;
+		
+		}
 
 		if ((global.selected.grabbed) && (!global.selected.inRoom)) {
 			thisCat = global.selected.id;

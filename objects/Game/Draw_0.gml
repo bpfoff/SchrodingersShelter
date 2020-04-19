@@ -1,3 +1,5 @@
+draw_set_font(font_menuFont1);
+
 if (!level_end){
 	draw_text(0,0,"Score: " + string(global.playerScore) + "/" + string(100 * global.currentNumCats));
 	draw_text(0,50,"Time left in level: " + string(floor(alarm[0]/room_speed)));
