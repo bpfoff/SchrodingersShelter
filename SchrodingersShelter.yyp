@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "7c444402-d2a6-43df-bdae-973e756b7aed",
+            "Value": {
+                "id": "ab85bac3-20de-44fb-b183-16c8bae13d0b",
+                "resourcePath": "sprites\\spr_startBackground\\spr_startBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7fea427d-44bf-42c9-9d91-d81d72b1341b",
             "Value": {
                 "id": "54c4e3f5-58bd-4852-8b0d-fd9c2c397e27",
