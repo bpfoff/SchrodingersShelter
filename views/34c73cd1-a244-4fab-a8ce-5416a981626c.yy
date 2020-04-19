@@ -10,7 +10,8 @@
         "8497c0f1-cf1e-4b3e-bec0-9186eb86c848",
         "1c1edbaf-d371-4db5-9081-0448630ff390",
         "26b4049d-bd0f-4529-945c-44bf8d0c53c9",
-        "bdc94e0d-edaf-49b5-be30-88e1d5b2b988"
+        "bdc94e0d-edaf-49b5-be30-88e1d5b2b988",
+        "8efcac4f-69b7-4929-8d9d-7f9be059a7bd"
     ],
     "filterType": "GMRoom",
     "folderName": "Menus",
