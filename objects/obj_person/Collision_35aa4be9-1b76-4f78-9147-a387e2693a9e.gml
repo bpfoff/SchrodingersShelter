@@ -31,14 +31,17 @@ if(global.isMoving){
 			case 0:
 				assignedCat.roomID.pos1Occupied = false;
 				assignedCat.roomID.roomCapacity--;
+				global.currentCapacity--;
 				break;
 			case 1:
 				assignedCat.roomID.pos2Occupied = false;
 				assignedCat.roomID.roomCapacity--;
+				global.currentCapacity--;
 				break;
 			case 2:
 				assignedCat.roomID.pos3Occupied = false;
 				assignedCat.roomID.roomCapacity--;
+				global.currentCapacity--;
 				break;
 			default:
 				break;
@@ -71,6 +74,7 @@ if(global.isMoving){
 		instance_destroy(obj_personContextMenu);
 
 	}
+	
 	global.isMoving = false;
 
 }
