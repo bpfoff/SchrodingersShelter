@@ -13,7 +13,8 @@
         "c05eb87f-5e6c-4cc9-a3d4-ab08406a3fdf",
         "671da975-6a59-4811-9588-6f402bb956ec",
         "afcdca15-e6de-4b59-8ae6-1c4ef065704e",
-        "6f34563a-b19f-4c72-a8e6-bcd46a7dc329"
+        "6f34563a-b19f-4c72-a8e6-bcd46a7dc329",
+        "321cdeef-d591-43cc-b637-b068cbf46ad9"
     ],
     "filterType": "GMSprite",
     "folderName": "MenuSprites",

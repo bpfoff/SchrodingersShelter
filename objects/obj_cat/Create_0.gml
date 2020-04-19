@@ -22,7 +22,6 @@ roomID = noone;
 name = "";
 personality = "";
 color = "";
-//sprite = "spr_testCat";
 grabbed = false;
 weirdness = choose(0,1);
 talkSprite = spr_testCat;
@@ -37,10 +36,6 @@ roomPos = -1;
 
 colorX = irandom(3);
 personalityY = irandom(3);
-
-//name = normalCat[colorX][personalityY];
-//nestedName = normalCat[colorX];
-//name = nestedName[personalityY];
 
 if(colorX==0){
 	color = "gray";
