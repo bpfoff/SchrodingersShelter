@@ -815,6 +815,14 @@
             }
         },
         {
+            "Key": "8efcac4f-69b7-4929-8d9d-7f9be059a7bd",
+            "Value": {
+                "id": "36e8d42f-3b65-4986-aa50-2b7cbb1a2339",
+                "resourcePath": "rooms\\menu_creditsMenu\\menu_creditsMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8efd8ce8-69c4-4378-b556-9d1f4d6ee3d8",
             "Value": {
                 "id": "ab7dc8d3-2ef8-47c7-90c8-49b1e9797e01",
