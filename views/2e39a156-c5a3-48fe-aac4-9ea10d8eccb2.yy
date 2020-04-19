@@ -12,7 +12,8 @@
         "ebed3562-8e2c-48db-8a8e-084a1629ebb4",
         "a10ad1ef-04d9-4fb8-a809-8cd3ec8c734b",
         "74decafb-cca9-49c7-937a-919811109ec1",
-        "378efd8d-531f-41f2-8294-d4482ed150fd"
+        "378efd8d-531f-41f2-8294-d4482ed150fd",
+        "a2fdb373-fdc7-40a1-b60a-3840b6d96938"
     ],
     "filterType": "GMObject",
     "folderName": "Frontend UI",
