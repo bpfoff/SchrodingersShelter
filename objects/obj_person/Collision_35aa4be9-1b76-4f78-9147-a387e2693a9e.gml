@@ -25,8 +25,6 @@ if(global.isMoving){
 		
 		assignedCat.inRoom = false;
 		
-		//show_debug_message(assignedCat.roomID.roomCapacity);
-		
 		switch(assignedCat.roomPos){
 			case 0:
 				assignedCat.roomID.pos1Occupied = false;
@@ -51,7 +49,6 @@ if(global.isMoving){
 		}
 
 		assignedCat.roomPos = -1;
-		//show_debug_message(assignedCat.roomID.roomCapacity);
 		
 	}
 	

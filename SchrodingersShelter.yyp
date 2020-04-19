@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "2e39a156-c5a3-48fe-aac4-9ea10d8eccb2",
-            "Value": {
-                "id": "7c915450-c023-4a6d-b375-1ceed91d01c3",
-                "resourcePath": "views\/2e39a156-c5a3-48fe-aac4-9ea10d8eccb2.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "2fb6050a-ef31-466b-aca5-0b072bf6a85e",
             "Value": {
                 "id": "3ed1fa4b-d8ff-4003-812d-405bfb4d4195",
@@ -283,6 +275,14 @@
             "Value": {
                 "id": "d42fb57d-3d72-4299-b0dd-f2ff0dce5c06",
                 "resourcePath": "sprites\\spr_talkCementmixer\\spr_talkCementmixer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "321cdeef-d591-43cc-b637-b068cbf46ad9",
+            "Value": {
+                "id": "44300d27-22d3-4e43-b388-fe581085a3a0",
+                "resourcePath": "sprites\\spr_buttonCreditsButton\\spr_buttonCreditsButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -916,6 +916,14 @@
                 "id": "64495eb2-2995-4fd5-be51-18467700ea9f",
                 "resourcePath": "sprites\\spr_collar_background\\spr_collar_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a2fdb373-fdc7-40a1-b60a-3840b6d96938",
+            "Value": {
+                "id": "30671542-5a16-436b-ae40-9e4056255270",
+                "resourcePath": "objects\\obj_buttonCreditsButton\\obj_buttonCreditsButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
