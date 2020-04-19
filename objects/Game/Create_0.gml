@@ -34,5 +34,12 @@ optionString = [
 	
 ];
 
-timer = room_speed * 200;
+if (global.current_level = room_level_1) {
+	timer = room_speed * 180;
+} else if (global.current_level = room_level_2) {
+	timer = room_speed * 120;
+} else if (global.current_level = room_level_3) {
+	timer = room_speed * 60;
+}
+
 alarm[0] = timer;
