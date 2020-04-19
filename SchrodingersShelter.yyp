@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "2e666120-9ab1-4afa-bbc2-fd1c80d1d5d4",
+            "Value": {
+                "id": "2d098a65-feb1-4fe8-befa-419860b4fbd8",
+                "resourcePath": "sprites\\spr_testShelterRoomNight\\spr_testShelterRoomNight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2fb6050a-ef31-466b-aca5-0b072bf6a85e",
             "Value": {
                 "id": "3ed1fa4b-d8ff-4003-812d-405bfb4d4195",
@@ -380,6 +388,14 @@
                 "id": "5c4f1aaa-800f-4f69-b3b7-dc8e6206961e",
                 "resourcePath": "scripts\/normalCats\/normalCats.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "40d3fdce-3e22-491f-a4c7-7836977ab50b",
+            "Value": {
+                "id": "e70c181b-96e4-477b-839b-6223e3ae168a",
+                "resourcePath": "sprites\\spr_backgroundNight\\spr_backgroundNight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1079,6 +1095,14 @@
             }
         },
         {
+            "Key": "c3b2b14f-e892-463f-9cc1-1310274f6a87",
+            "Value": {
+                "id": "06b35297-c011-4976-a8c7-969b3a2a2525",
+                "resourcePath": "sprites\\spr_backgroundSunset\\spr_backgroundSunset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c5dd723e-338f-47f9-a15f-f0a05f23dc2d",
             "Value": {
                 "id": "513df98c-2167-4c69-9d69-de496173901c",
@@ -1132,6 +1156,14 @@
                 "id": "9f55d12f-b4b4-4776-addd-0c4fa89c4214",
                 "resourcePath": "views\/cd4a17d2-da46-4d8b-9d54-0f730753b89e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cff1ce27-0222-4dce-b2fa-ac44282b8491",
+            "Value": {
+                "id": "74df2664-eccd-4bba-bd11-e1421b6df6d1",
+                "resourcePath": "fonts\\font_titleFont1\\font_titleFont1.yy",
+                "resourceType": "GMFont"
             }
         },
         {

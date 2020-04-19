@@ -16,3 +16,7 @@ positionY3 = y + sprite_height*.7;
 pos1Occupied = false;
 pos2Occupied = false;
 pos3Occupied = false;
+
+if(global.current_level==room_level_3){
+	sprite_index = spr_testShelterRoomNight;
+}
