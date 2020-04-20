@@ -22,4 +22,3 @@ if(movingTowardsShelter){
 	x += 1;
 
 }
-

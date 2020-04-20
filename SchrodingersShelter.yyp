@@ -743,6 +743,14 @@
             }
         },
         {
+            "Key": "7789af56-9fe2-4a95-b514-303796f27058",
+            "Value": {
+                "id": "fbe80e28-e137-4cc6-a311-e17844ea4e85",
+                "resourcePath": "sprites\\spr_messageBox\\spr_messageBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "77dd6b2d-24e3-4457-b373-3e0c33839f39",
             "Value": {
                 "id": "287cee50-ca32-4dc8-8701-739667d71503",
@@ -900,6 +908,14 @@
                 "id": "af1d705d-73c4-4f63-9c32-44e14938bc91",
                 "resourcePath": "views\/9c72809f-e6fe-4cf8-97ca-19e32043f9b1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d3f2cf0-c502-475b-9d63-5a83e1458c96",
+            "Value": {
+                "id": "7c6ab9e3-695c-4be4-9535-f6caf3efafa5",
+                "resourcePath": "fonts\\font_messageBox\\font_messageBox.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1123,6 +1139,14 @@
             "Value": {
                 "id": "c147c321-746c-4276-90b6-8e14504d9968",
                 "resourcePath": "sprites\\spr_pixPerson6\\spr_pixPerson6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c94332b3-84bc-47f4-b3bc-7efc739e33d4",
+            "Value": {
+                "id": "056bde55-d779-4362-983e-a108e342d307",
+                "resourcePath": "sprites\\spr_messageBoxNight\\spr_messageBoxNight.yy",
                 "resourceType": "GMSprite"
             }
         },

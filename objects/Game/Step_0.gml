@@ -29,3 +29,10 @@ switch(level_no){
 		break;
 	
 }
+
+if(global.adoption){
+	global.message_fade -= .01;
+	if(global.message_fade==0){
+		global.adoption = false;	
+	}
+}

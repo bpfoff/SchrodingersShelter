@@ -21,17 +21,13 @@ enum Options{
 	
 	Move,
 	Traits,
-	About
-	
-	
+	About	
 };
 
 optionString = [
-	
 	"Move",
 	"Traits",
 	"Collar"
-	
 ];
 
 if (global.current_level = room_level_1) {
@@ -43,3 +39,9 @@ if (global.current_level = room_level_1) {
 }
 
 alarm[0] = timer;
+
+global.adoption = false;
+global.message_fade = 0.99;
+
+global.messageCount = 0;
+global.messageScore = 0;

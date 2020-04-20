@@ -40,4 +40,6 @@ currentSpot = 0;
 
 sprite_index = pixSprite;
 
+message_fade = 0.99;
+
 //The players that are made will be made in such a way that there is always a match.

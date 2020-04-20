@@ -15,6 +15,9 @@ count = 0;
 
 finalScore = 0;
 
+global.messageCount = 0;
+global.messageScore = 0;
+
 switch(global.current_level){
 	
     case room_level_1:
@@ -119,4 +122,5 @@ switch(global.current_level){
 	
 }
 
-show_message("You matched " + string(count) + " traits!\n" + "You earned " + string(finalScore) + " points!");
+global.messageCount = count;
+global.messageScore = finalScore;

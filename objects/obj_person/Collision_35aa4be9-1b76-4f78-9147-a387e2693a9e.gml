@@ -9,6 +9,9 @@ if(global.isMoving){
 	calcScore(assignedCat, self);
 	global.currentNumCats++;
 	
+	global.adoption = true;
+	global.message_fade = 1.99;
+	
 	spot = assignedCat.currentSpot;
 	if(spot==1){
 		obj_spawner.spot1Occupied = false;
@@ -73,5 +76,4 @@ if(global.isMoving){
 	}
 	
 	global.isMoving = false;
-
 }
