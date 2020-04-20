@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "1f888212-361b-4214-bdd2-41eb0864d9cc",
+            "Value": {
+                "id": "9d9cd96d-32f5-490f-8929-f7733a6c2b19",
+                "resourcePath": "fonts\\font_howToPlay\\font_howToPlay.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "21366c4e-d591-4ce7-8b19-fcc68f8e3fb0",
             "Value": {
                 "id": "516f887b-c2b8-41c5-956d-49e85a585884",
