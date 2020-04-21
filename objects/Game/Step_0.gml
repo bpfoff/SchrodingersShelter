@@ -36,3 +36,8 @@ if(global.adoption){
 		global.adoption = false;	
 	}
 }
+
+if(!(room==room_level_1||room==room_level_2||room==room_level_3)){
+	alarm[0]++;	
+	global.message_fade=0;
+}

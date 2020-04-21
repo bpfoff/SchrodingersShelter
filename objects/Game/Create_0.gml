@@ -35,7 +35,7 @@ if (global.current_level = room_level_1) {
 } else if (global.current_level = room_level_2) {
 	timer = room_speed * 120;
 } else if (global.current_level = room_level_3) {
-	timer = room_speed * 60;
+	timer = room_speed * 100;
 }
 
 alarm[0] = timer;
