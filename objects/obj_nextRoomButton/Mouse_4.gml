@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 if (global.current_level = room_level_1) {
 	global.current_level = room_level_2;
 	room_goto(room_level_2);
